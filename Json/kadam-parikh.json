@@ -1,0 +1,201 @@
+{
+    "public_identifier": "kadam-parikh",
+    "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQGn8WVNmPv_7g/profile-displayphoto-shrink_800_800/0/1635916718799?e=2147483647&v=beta&t=lx1nmpFfoXUr_SHLdSxfx42X2t-b0YibVVZ4adpBczY",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/D4D16AQGrozGRuP3LVA/profile-displaybackgroundimage-shrink_200_800/0/1663346073018?e=2147483647&v=beta&t=sn0hZbkEuhmFMuDCclEgfX8L6Bop8P6-rkxCDs-He98",
+    "first_name": "Kadam",
+    "last_name": "Parikh",
+    "full_name": "Kadam Parikh",
+    "occupation": "Lead Software Engineer (Machine Learning) at F(x) Data Labs",
+    "headline": "Machine Learning Engineer | Building, Breaking and Fixing logic is what I love to do °~°",
+    "summary": "Technical Lead with 4+ years of experience in the field of Machine Learning and Software Engineering.   \n\nI love to build practical systems irrespective of their kind, but my preference lies in systems that can utilize the power of AI.\n\nInterested Domain: FinTech",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "F(x) Data Labs",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/fx-data-labs",
+            "title": "Lead Software Engineer (Machine Learning)",
+            "description": "Key Achievements:\n- Optimized the project workflows at the workplace.\n- Built an AI based resume screener for large talent acquisition teams.\n- Leading teams of size ~12 across 3 different projects simultaneously.\n- Learning project management skills.",
+            "location": "Ahmedabad, Gujarat, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGR0kHWV5f6lw/company-logo_100_100/0/1622014489125?e=2147483647&v=beta&t=M_9DlGnsgYkSZOPloHrdZk53PHYvrW8P4shsaE_yabM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2021
+            },
+            "company": "F(x) Data Labs",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/fx-data-labs",
+            "title": "Software Engineer (Machine Learning)",
+            "description": "Key Achievements:\n- Leading the development and planning of an algorithmic trading\nplatform for cryptocurrency.\n- Built an accurate Handwritten Ancient Sanskrit Text Recognition\nSystem for old texts from the 1000s.\n- Developed an unsupervised algorithm using Random Forests to detect\nfrauds in Bitcoin Games Casino.\n- Boosted the accuracy of a time series based Oil Well Anomaly\nDetection system by 10%.",
+            "location": "Ahmedabad, Gujarat",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGR0kHWV5f6lw/company-logo_100_100/0/1622014489125?e=2147483647&v=beta&t=M_9DlGnsgYkSZOPloHrdZk53PHYvrW8P4shsaE_yabM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "F(x) Data Labs",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/fx-data-labs",
+            "title": "Associate Software Engineer (Machine Learning)",
+            "description": "Key Achievements:\n- Developed H+Tree, a 2x faster data structure as compared to B+Tree.\n- Implemented a research paper based on Knowledge Graphs and Object\nDetection.\n- Mentored new team members at our workplace in Machine Learning.",
+            "location": "Ahmedabad, Gujarat, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGR0kHWV5f6lw/company-logo_100_100/0/1622014489125?e=2147483647&v=beta&t=M_9DlGnsgYkSZOPloHrdZk53PHYvrW8P4shsaE_yabM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Blogger Blogspot",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/blogger-blogspot",
+            "title": "Blogger",
+            "description": "Blogging with a view to share knowledge on cyber security to the world. Responsibilities include getting some time out of other work, gaining the knowledge and sharing them to the world in a simple language that makes the subject seem easy. Have wrote many articles (nearly 130) and have achieved a great success with views from all over the world (mostly U.S., Canada, Russia and India). Feedback received for the work is great and total blog views are currently 50000+.",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "L.D. College of Engineering",
+            "school_linkedin_profile_url": "https://in.linkedin.com/school/l.d-college-of-engineering---ahmedabad/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHfvameHidqKg/company-logo_100_100/0/1519911543702?e=2147483647&v=beta&t=kbnUpVe0NQ3fRqTkwDGSkwmBOqJGJDgzVweBNp0S7lU",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "CS224n: Natural Language Processing with Deep Learning by Stanford University",
+            "number": "-"
+        },
+        {
+            "name": "CS229: Machine Learning by Stanford University",
+            "number": "-"
+        },
+        {
+            "name": "CS231n - Convolutional Neural Networks for Visual Recognition by Justin Johnson (Stanford University)",
+            "number": "-"
+        },
+        {
+            "name": "Deep Learning Specialization by Coursera",
+            "number": "-"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "AI Powered Resume Screener",
+            "description": "Managed the research & development of a system, built for large talent acquisition firms, that eases the work of hiring team by scoring every resume in the system for a given job description. It also helps the recruiter understand why the selected candidates are the best match for their job.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Bidirectional Attention Flow for Machine Comprehension",
+            "description": "Implemented the research paper Bidirectional Attention Flow for Machine Comprehension in Keras from scratch. The project aims at extracting answers for a specific question from a given article.",
+            "url": "https://github.com/ParikhKadam/bidaf-keras"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Entropy",
+            "description": "Leading the development of Entropy, an algorithmic trading platform for cryptocurrency. Planning the features of initial release by doing necessary research and understanding complexities of tasks; and guiding the team in the right direction.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Fraud Detection in Bitcoin.com Casino",
+            "description": "Bitcoin.com has its official online casinos where people can play using cryptocurrencies. Built a fraud detection algorithm, using unsupervised learning, that is capable of monitoring withdrawals from the casino and raising alerts when potential fraudulent activity is detected.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "GMR Energy Market Price Prediction",
+            "description": "Built a system that is capable of predicting the price at which energy will be traded at Indian Energy Exchange. Analyzed the time series data from past 3 years and built an ensemble of 3 different model architectures that is able to provide the best accuracy of 83% on average with a tolerance of 10% and maximum being 93%.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "H+Tree",
+            "description": "H+Tree is research work which aims at optimizing the internal B+Tree module of database storage systems in order to have a new database storage system which is 2x faster and more storage efficient.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Handwrittern Sanskrit OCR",
+            "description": "Built an OCR system for Handwritten Ancient Indian Language (Sanskrit) from the 1000s. The data was highly complex in nature with no spacing and punctuations, with manual corrections, and designs within pages. The system encompasses four different modules which identifies lines, OCRs a line, combines and orders the lines and performs text correction.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [
+        "Rujavi Patel\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          It was a pleasure to have studied with Kadam. He has always been upbeat, collaborative, and driven. We collaborated on projects, and he strives for high-quality work.\n\nHe is a dependable and tactful team member who is always eager to learn and willing to assist when needed. Kadam is a self-starter with a knack for problem solving.\n\nHe is a person who is open-minded, resourceful, and resilient. When I was stuck, I could rely on his insights rather than searching for answers online. A fantastic colleague!"
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Kadam Parikh",
+            "link": "https://in.linkedin.com/in/kadam-parikh-17292568",
+            "summary": "Dancer",
+            "location": "Ahmedabad"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": []
+}

@@ -1,0 +1,746 @@
+{
+    "public_identifier": "hemenashodia",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hemenashodia/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230119%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230119T083429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=31e751513781287dbcb5d49f78750c9b891ddd3e8bd280aa55df629fb2bb101b",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hemenashodia/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230119%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230119T083429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c1e23159018435937afcf6aec7fb5dcb50dfc710329d44863237461da93c18ab",
+    "first_name": "Hemen",
+    "last_name": "Ashodia",
+    "full_name": "Hemen Ashodia",
+    "occupation": "Founder / Chief Scientist at F(x) Data Labs PVT LTD",
+    "headline": "Senior Machine Learning Developer | Neural Network Expert",
+    "summary": "To invent.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Medlex.ai",
+            "company_linkedin_profile_url": null,
+            "title": "Machine Learning Developer",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2015
+            },
+            "company": "Zidisha",
+            "company_linkedin_profile_url": null,
+            "title": "Chief Technology Officer",
+            "description": "Zidisha is the first online microlending community that directly connects lenders and borrowers — no matter the distance or disparity between them.\n\nMore than 200,000 people worldwide have started using Zidisha.",
+            "location": "Ahmedabad Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "Remarkin.com",
+            "company_linkedin_profile_url": null,
+            "title": "Founder / CEO",
+            "description": "Remarkin.com is a start-up venture aims to make education easy, engaging and creative.",
+            "location": "Ahmedabad",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "Venture Design Fellow",
+            "company_linkedin_profile_url": null,
+            "title": "Venture Studio",
+            "description": "Venture Studio program follows a design methodology based from research conducted in the field of engineering and product innovation. The program is run by Ahmedabad University in Collaboration with Center for Design Research at Stanford University",
+            "location": "Ahmedabad Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "company": "Aspire Institute",
+            "company_linkedin_profile_url": null,
+            "title": "Trainer/ faculty",
+            "description": "Coaching for Advance web development with PHP",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2012
+            },
+            "company": "Vox Populi Club",
+            "company_linkedin_profile_url": null,
+            "title": "Tech-Event Manager",
+            "description": "VP-club is club in L.D. College of Engineering, Ahmedabad.\nthat organizes events to keep Engineers Beating ..:)",
+            "location": "Ahmedabad Area, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "company": "Vox Populi Magazine",
+            "company_linkedin_profile_url": null,
+            "title": "Techtonic",
+            "description": "Working for tech department of Vox-Populi Magazine.",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "Vox Populi Club",
+            "company_linkedin_profile_url": null,
+            "title": "Manager OF Technical Events",
+            "description": "I work as a Technical Event manger at Vox Populi Club\nIn LD College of Engineering Ahmedabad",
+            "location": "Ahmedabad",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2012
+            },
+            "company": "Topupchat.com",
+            "company_linkedin_profile_url": null,
+            "title": "CEO/founder",
+            "description": "As a CEO I invent all new feature of this website topupchat.com,\nthe entire idea, code and design of this website is designed and invented by me",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "ArtuData",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/artudata",
+            "title": "Chief Data Scientist",
+            "description": "80% of your profit is generated by just 2% of your visitors\nArtuData empowers your marketing and sales teams to identify leads in real-time, giving each team full focus to convert them into paying customers. Now you can boost your efficiency and ROI while reducing your cost per acquisition.",
+            "location": "Ahmedabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFUYSqXppGN4A/company-logo_100_100/0/1553600422321?e=2147483647&v=beta&t=_NGmIPIxiP6HC6vSgEgZKIAYwhgH7SYF-u2pxzclchM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Johnson & Johnson",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/johnson-&-johnson",
+            "title": "Lead Data Scientist and Machine Learning Expert",
+            "description": "Worked as a Lead Data Scientist and Machine Learning Expert at Johnson & Johnson - Data Science.\nCreated data pipelines, which used millions of data points, for the identification of the best strategies to increase the effectiveness of professional educational events.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFwn8CHaum_AA/company-logo_100_100/0/1519856123566?e=2147483647&v=beta&t=QhT9tuOb_MGhiro5YWz_WYl-YT-Yr4vUB1jXAMMeEZE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Loom Network",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/loom-network",
+            "title": "Lead Go Developer",
+            "description": "Built a Karma system for a decentralized crypto platform and implemented a Sparse Merkle Tree.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQEnUXssv5qLDg/company-logo_100_100/0/1556203403981?e=2147483647&v=beta&t=SCNAP-8Ff0aB0pk0NVvnPEpe7RuVW3NfeRegYkd4raw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Paravision",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/paravision-ai",
+            "title": "TensorFlow Expert",
+            "description": "Invented the fastest algorithm to identify the correct face using machine learning with a 99.81% accuracy.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFvFaMgfsnEug/company-logo_100_100/0/1664880788148?e=2147483647&v=beta&t=PMhPhWE1k7eipcrc_zTBoXgZ5beUnGHbIU9hnIg7Twk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": null,
+            "company": "F(x) Data Labs PVT LTD",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/fx-data-labs",
+            "title": "Founder / Chief Scientist",
+            "description": "At F(x) Data Labs, we are working on our algorithm called h+tree which increases the speed limit of the databases that serves more number of users at a time.\n\n h+ tree is capable to deliver 300% speed compared to the existing B+Tree. Hence your servers will become exceptionally fast and your server cost also goes down eventually.\n\nThe end goal for setting up our cloud infrastructure is that we want to inject our h+Tree algorithm into our cloud servers and we look forward to delivering the fastest cloud servers to the entire software industry!",
+            "location": "Ahmedabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGR0kHWV5f6lw/company-logo_100_100/0/1622014489125?e=2147483647&v=beta&t=M_9DlGnsgYkSZOPloHrdZk53PHYvrW8P4shsaE_yabM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "Amitech",
+            "company_linkedin_profile_url": "https://in.linkedin.com/company/amitech",
+            "title": "Web Developer",
+            "description": "Worked as Facebook Application Developer and Firefox Extension Developer at Amitech.\nAmitech is a software solution company from Ahmedabad.",
+            "location": "Ahmedabad Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFbyMMppPa9iQ/company-logo_100_100/0/1519888006947?e=2147483647&v=beta&t=P7gTerkOsM4DMwCMILrjT-sGwHk6mzK0BVFj7J2-L1s"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Entrepreneurship and Design Thinking",
+            "degree_name": "Fellowship",
+            "school": "VentureStudio Partnered with Stanford University, California",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "field_of_study": "IT",
+            "degree_name": "BE",
+            "school": "L.D College of Engineering - Ahmedabad",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Science",
+            "degree_name": "12th",
+            "school": "V. D. High School, Bhuj-Kutch",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Gujarati",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Fx Optimiser upto 80% faster Artificial Neural Network Training",
+            "publisher": "OpenReview",
+            "published_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            },
+            "description": "Fx Optimiser is successor to Adam Optimiser.\nIt is observed to throuput upto 80% faster Artificial Neural Network Training",
+            "url": "https://pdfs.semanticscholar.org/2ce7/b7d2599652a5b57f919a17977a5323a5c78b.pdf?hyper-query=fx%20optimier%20hemen"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Leadership and Excellence Award",
+            "issuer": "Gujarat Technological University, Ahmedabad, Gujarat, India",
+            "issued_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Bachelor of Engineering (BE) Information Technology",
+            "number": "-"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2011
+            },
+            "ends_at": null,
+            "title": "Topupchat.com(Free Recharge)",
+            "description": "Chat with your fiends and get free Mobile Recharge",
+            "url": "http://www.topupchat.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "title": "Net Meeting",
+            "description": "A portal for easy virtual meeting.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": null,
+            "title": "ICATES2013",
+            "description": "A responsive website for an International Conference on Advances in Tribology and Engineering Systems",
+            "url": "http://www.icates2013.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "MN Framework",
+            "description": "An extremely robust and easy to use framework of highly distributed development of Advance PHP web projects.\nHelpful for beginners - intermediates and experts",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "LGD Library",
+            "description": "Layered image processing library for PHP",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Me Famous",
+            "description": "an app to update fb status in a stylish way",
+            "url": "https://apps.facebook.com/mefamous"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "PicInChat.com",
+            "description": "upload & Send pic to facebook friends in chat as big smiles",
+            "url": "http://www.picinchat.com"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2012
+            },
+            "ends_at": null,
+            "title": "Just Debate",
+            "description": "Just Debate - war of the words\nAn Event of Technical debate",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://in.linkedin.com/in/ali-asgar-zakir-5b6950113",
+            "name": "Ali Asgar Zakir",
+            "summary": "Associate Machine Learning Engineer at F(x) Data Labs",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/janvi-shah-3a56b216a",
+            "name": "Janvi Shah",
+            "summary": "Business Development Executive at F(x) Data Labs Pvt Ltd",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/dhruvit-parmar-137b7020a",
+            "name": "Dhruvit Parmar",
+            "summary": "--",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nill-pawar-b109641b2",
+            "name": "Nill Pawar",
+            "summary": "Student at L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/keyur-solanki-0b13b9205",
+            "name": "Keyur Solanki",
+            "summary": "Student at L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/shan-patel-461199194",
+            "name": "Shan Patel",
+            "summary": "Student at  L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/aditya-panchal-43834122a",
+            "name": "Aditya Panchal",
+            "summary": "Student at L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vijay-prakash-689667205",
+            "name": "Vijay Prakash",
+            "summary": "Software engineer",
+            "location": "Gorakhpur"
+        },
+        {
+            "link": "https://in.linkedin.com/in/khyati-birje",
+            "name": "KHYATI BIRJE",
+            "summary": "Data Scientist",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/kanjiya-ketan",
+            "name": "Kanjiya Ketan",
+            "summary": "Chief Research Officer (CRO) at Kshatrainfotech Pvt Ltd",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/gaurang-khanna-75ba90173",
+            "name": "Gaurang Khanna",
+            "summary": "Machine Learning Engineer at F(x) Data Labs",
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/deveshy",
+            "name": "Devesh Yadav",
+            "summary": "DevOps Engineer at Optimiser",
+            "location": "Noida"
+        },
+        {
+            "link": "https://in.linkedin.com/in/jeet-bhalodi-18a244111",
+            "name": "jeet bhalodi",
+            "summary": "Student at Gujarat University",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/kadam-parikh",
+            "name": "Kadam Parikh",
+            "summary": "Machine Learning Software Engineer | Building, Breaking and Fixing logic is what I love to do °~° | All Rounder",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/yash-patel-3033621b8",
+            "name": "yash patel",
+            "summary": "working at CSINFOPLUS",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/katariya-haresh-227402138",
+            "name": "Katariya Haresh",
+            "summary": "General Manager at Moon Technolabs Pvt. Ltd.",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/dharmendra-chauhan-97b9751a0",
+            "name": "Dharmendra Chauhan",
+            "summary": "Student at L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/ankur-khunt-122b971b0",
+            "name": "Ankur Khunt",
+            "summary": "IT Student at LD college of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/solanki-pala-308540136",
+            "name": "solanki pala",
+            "summary": "Master of Computer Applications - MCA at L.D. College of Engineering",
+            "location": "Ahmedabad"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nidhi-sharma-669016159",
+            "name": "Nidhi Sharma",
+            "summary": "Software Engineer at Optimiser",
+            "location": "Noida"
+        },
+        {
+            "link": "https://www.linkedin.com/in/tejaskhanna",
+            "name": "Tejas Khanna",
+            "summary": "Machine Learning Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rajatlala",
+            "name": "Rajat Lala",
+            "summary": "CTO | Entrepreneur | Blockchain Specialist | Startup Enthusiast",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anilsoni7",
+            "name": "Anil Soni",
+            "summary": "Software Engineer at F(x) Data Labs",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/viveksolanki2641",
+            "name": "Vivek Solanki",
+            "summary": "Machine Learning | Deep Learning | AI | Computer Vision |",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harsh-wani-839798175",
+            "name": "Harsh Wani",
+            "summary": "Data Science | Data Analyst enthusiast | BI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/hareshpatel1983",
+            "name": "Haresh Patel",
+            "summary": "Web Research Executive at Simform",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/raj-prajapati1172",
+            "name": "Raj  Prajapati",
+            "summary": "Python developer | Machine Learning | Deep Learning Enthusiastic",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Yash Raithatha\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Hemen has been an excellent PHP trainer in my institute. He is honest,hard working and creative. He has an in depth knowledge of PHP and web development.  I will strongly recommend him."
+    ],
+    "activities": [
+        {
+            "title": "Me in 2017: 0.00$ In revenue with zero social presence.Me in 2022: $250k+ in revenue and 300K+ social media followers. How did I do…",
+            "link": "https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_me-in-2017-000-in-revenue-with-zero-social-activity-7014212705758715904-3Alc",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Shared the same row with Sachin Tendulkar on a flight to Delhi today. That's not the half of it. Most legends I have had the good fortune of meeting…",
+            "link": "https://www.linkedin.com/posts/vckarthic_humility-activity-6999286063286370304-6lyx",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Today, after 33 years, 33 weeks and 33 days, is my last day with Microsoft. I’ve wanted to be a part of Microsoft since I was in the 10th grade…",
+            "link": "https://www.linkedin.com/posts/tim-gerken-b14188149_retired-activity-6991782044343148544-zAe1",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Entrepreneur Shantanu Naidu, a General Manager in the office of industrialist Ratan Tata, has shared his opinion on ‘the 18-hour workday for…",
+            "link": "https://www.linkedin.com/posts/corporatebhakt_entrepreneur-shantanu-naidu-a-general-manager-activity-6971758485550084096-K6ab",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Automatic Cable Feeding MachineIn this article, we share how an automatic cable feeding machine works in our manufacturing process.This machine…",
+            "link": "https://www.linkedin.com/posts/katlax-enterprises-private-limited_automatic-cable-feeding-machine-activity-6970699657207267328-IG_J",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "🚨BOMBSHELL!!!🚨The conversation between Johnny Depp and Amber Heard had at the end of the trial has been leaked! The transcript reads:Heard:…",
+            "link": "https://www.linkedin.com/posts/deeppatelj_laravel-php-mysql-activity-6943245124206223360-ig7S",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Happy to share that I have started new journey with Cisco. Be true yourself with fantastic culture, values and quality products. Be you with Us…",
+            "link": "https://www.linkedin.com/posts/rakesh-patel-9305a33b_wearecisco-cisco-bestplacetowork-activity-6941008185029726208-aT3U",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "Photo",
+            "link": "https://www.linkedin.com/posts/yash-raithatha-07726654_activity-6939929190154518528-87Yk",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "I've been hearing that the salaries in IT are on a boom and the bubble ia going to break soon. However I keep on smiling as to what nonsense is this,…",
+            "link": "https://www.linkedin.com/posts/kadam-parikh_developer-informationtechnology-itcompanies-activity-6929818248251142144-x5BL",
+            "activity_status": "Liked by Hemen Ashodia"
+        },
+        {
+            "title": "We strongly follow the \"Swachh Data Abhiyan\" in our professional lives.To know more about us visit  https://htree.plus/ #datascience #data",
+            "link": "https://www.linkedin.com/posts/hemenashodia_datascience-data-activity-6798216858932699136-kQwL",
+            "activity_status": "Liked by Hemen Ashodia"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "agile methodologies",
+        "ajax",
+        "algorithm design",
+        "artificial intelligence",
+        "artificial neural networks",
+        "business strategy",
+        "c",
+        "c++",
+        "core java",
+        "css",
+        "css3",
+        "data science",
+        "data structures",
+        "design patterns",
+        "event management",
+        "facebook api",
+        "facebook open graph protocols",
+        "gamification",
+        "html",
+        "html 5",
+        "html5",
+        "j2se",
+        "java",
+        "javascript",
+        "jquery",
+        "json",
+        "linux",
+        "machine learning",
+        "magento",
+        "marketing strategy",
+        "mysql",
+        "natural language processing",
+        "node.js",
+        "parallax",
+        "php",
+        "poetry",
+        "product design",
+        "programming",
+        "python",
+        "risk management",
+        "semantic web",
+        "seo",
+        "software development",
+        "start ups",
+        "venture development",
+        "web applications",
+        "web development",
+        "web services",
+        "zend framework"
+    ]
+}

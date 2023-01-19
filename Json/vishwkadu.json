@@ -1,0 +1,300 @@
+{
+    "public_identifier": "vishwkadu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/vishwkadu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230119%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230119T083128Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e54d19e46e2ba9decaf4d6a5b00172db63fdedf061da4b7a9438d94b6dadeb26",
+    "background_cover_image_url": null,
+    "first_name": "Vishw",
+    "last_name": "Kadu",
+    "full_name": "Vishw Kadu",
+    "occupation": "Full Stack Engineer at F(x) Data Labs ",
+    "headline": "Full Stack Engineer | Contaractor",
+    "summary": "Innovative and task-driven professional with 1.5 years of\rexperience in development across diverse industries. Equipped\rwith a record of success in consistently identifying and\rproviding the technological needs of companies through\ringenious innovation. Proficient in developing databases,\rcreating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new\rfeatures based on user feedback.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "F(x) Data Labs ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fx-data-labs/",
+            "title": "Full Stack Engineer",
+            "description": null,
+            "location": "Ahmedabad",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGR0kHWV5f6lw/company-logo_400_400/0/1622014489125?e=1680739200&v=beta&t=1MEwGlfvuCE3JRPYb1Sd5wk0JaHrNfu3nBmCqQ4p4M4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "company": "The Sparks Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-sparks-foundation/",
+            "title": "Web Development Intern",
+            "description": "I completed a one month internship as a web developer. As a part of internship, I build basic banking Web App using ReactJs, PHP and Mysql.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_400_400/0/1519895156650?e=1680739200&v=beta&t=xjZq4aoOCyzG1dOt6-_SFAnp_WM5cMq1nLmqsE-9Zzk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "Wisebite.in",
+            "company_linkedin_profile_url": null,
+            "title": "Freelance Blogger",
+            "description": "Blog Writer at Wisebite.in",
+            "location": "Ahmedabad, Gujarat, India",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "field_of_study": "Computer Programming/Programmer, General",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "Government Engineering College,Gandhinagar",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEUUNQLGUAebA/company-logo_400_400/0/1519903777610?e=1680739200&v=beta&t=hFmoP7GDf0oSa1HjEjwsmxPmsBqxXfPNg_ETk1WQ4dw",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "High School Diploma",
+            "school": "R.C.Technical Institute,Ahmedabad 640",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Gujrati",
+        "Hindi",
+        "Marathi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "title": "Unomation",
+            "description": "Unomation Is Home Automation Application Made Using Arduino Uno and Various Sensors.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "title": "Coordinator",
+            "cause": "ARTS_AND_CULTURE",
+            "company": "Government Engineering College, Gandhinagar",
+            "company_linkedin_profile_url": null,
+            "description": "coordinator of Code-o-fiesta",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "title": "Tutor",
+            "cause": "EDUCATION",
+            "company": "YouTube",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/youtube/",
+            "description": "Content Creator at High On Code YouTube channel on PHP Topic.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_400_400/0/1631053379295?e=1680739200&v=beta&t=XErJJWmD5HHt0RWfxZXLH3UTwGvrI9OTNucj2cFuJp0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "title": "Freelance Blogger",
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "company": "Wisebite.in",
+            "company_linkedin_profile_url": null,
+            "description": "Content Writer At Wisebite.in",
+            "logo_url": null
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Front-End Web Development with React",
+            "license_number": "DLRWAD5U5C6H",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/DLRWAD5U5C6H"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+            "license_number": "HXGGC6MGAWNB",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/HXGGC6MGAWNB"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Introduction and Programming with IoT Boards",
+            "license_number": "DRV4563PWPWU",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/DRV4563PWPWU"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/harsh-wani-839798175",
+            "name": "Harsh Wani",
+            "summary": "Data Science | Machine Learning",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/parth-maru-4aa683177",
+            "name": "Parth Maru",
+            "summary": "Full Stack Engineer @ F(x) Data Labs",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jaydip-makwana-956a341a8",
+            "name": "Jaydip Makwana",
+            "summary": "Immediate Joiner | Full Stack Software Engineer( Python | Django | DRF | React )",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kadam-parikh",
+            "name": "Kadam Parikh",
+            "summary": "Machine Learning Engineer | Building, Breaking and Fixing logic is what I love to do °~°",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/raj-prajapati1172",
+            "name": "Raj  Prajapati",
+            "summary": "Python developer | Machine Learning | Deep Learning Enthusiastic",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yash-mehta-0184181a3",
+            "name": "Yash Mehta",
+            "summary": "Full Stack Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/viveksolanki2641",
+            "name": "Vivek Solanki",
+            "summary": "Machine Learning | Deep Learning | AI | Computer Vision |",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ali-asgar-zakir-5b6950113",
+            "name": "Ali Asgar Zakir",
+            "summary": "Associate Machine Learning Engineer at F(x) Data Labs",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/khushali-shah-a50968173",
+            "name": "Khushali Shah",
+            "summary": "Project Coordinator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/poojandhaduk",
+            "name": "Poojan Dhaduk",
+            "summary": "Aspiring learner | Web Enthusiast | Team Leader",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": []
+}
