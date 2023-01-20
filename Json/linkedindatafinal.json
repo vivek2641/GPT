@@ -1,0 +1,456 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/progyan-bhattacharya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230116T101516Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=468c68b1e12708cb205a3c7c446cd645c8f88b3b14c8fec4b17e85625e1fe373",
+        "first_name": "????????‍???? Progyan",
+        "last_name": "Bhattacharya",
+        "occupation": "Senior Software Engineer at Interview Kickstart",
+        "email": "vishw@htree.plus",
+        "headline": "Creator of @otjs | Senior Software Engineer @ Interview Kickstart | AWS Community Builder | ex-Hackerrank | CSM®",
+        "summary": "Full Stack Web Application Developer with Specialisation on React/Node & Docker\nVocal About: Hexagonal Architecture | TDD as Best Practice | Code Quality | Architecture First Coding Practice",
+        "country_full_name": "India",
+        "city": "Greater Bengaluru Area",
+        "state": "West Bengal",
+        "languages": [
+            "Bengali",
+            "English",
+            "Hindi"
+        ],
+        "access_token": "AQWLAUUhzG3Ta-ocp6O06gk-f5vWi1ocsbdto21yHik3wVGH-a2ps6f20ReWY_JCH6urnYHSPeQXOk2GMDJ0HIeG4ss7xT7nmAS6v-mo4WuQAOUdKoXXDJhzTtanOhaBFQDPwt-zQev6IoOFeoDbhPdf9YM5NkpdgyM2sDmOVYxFOTM1CpQVgBEcXu6-qPBits-g7ShjXE2GQkyxZGDvQReV02hqimEBrBlqEwAcSu8oEG8pc4cbQoY7LizfCBcuZr4E3EI-LDtxlEiR4FFdtXGui2iAJCC9y4QehLD1cGF_4H4JpYMP3hI6428XStVjuJ7FB7JnVpgAVGUPO-GXI_ve_8WdUQ",
+        "skills": [
+            "agile methodologies",
+            "ajax",
+            "algorithm design",
+            "artificial intelligence",
+            "artificial neural networks",
+            "business strategy",
+            "c",
+            "c++",
+            "core java",
+            "css",
+            "css3",
+            "data science",
+            "data structures",
+            "design patterns",
+            "event management",
+            "facebook api",
+            "facebook open graph protocols",
+            "gamification",
+            "html",
+            "html 5",
+            "html5",
+            "j2se",
+            "java",
+            "javascript",
+            "jquery",
+            "json",
+            "linux",
+            "machine learning",
+            "magento",
+            "marketing strategy",
+            "mysql",
+            "natural language processing",
+            "node.js",
+            "parallax",
+            "php",
+            "poetry",
+            "product design",
+            "programming",
+            "python",
+            "risk management",
+            "semantic web",
+            "seo",
+            "software development",
+            "start ups",
+            "venture development",
+            "web applications",
+            "web development",
+            "web services",
+            "zend framework"
+        ],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 71,
+                    "user_id_id": 9,
+                    "starts_at": "2021-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Interview Kickstart",
+                    "title": "Senior Software Engineer",
+                    "description": "- Actively Hiring and Building Frontend Team from ground-up.\n- Creating a culture of Platform-first Development Experience and Product-led Growth initiatives.\n- Mentoring Fresh Talents and Onboarding them into Software Development.\n- Managing Software Development Lifecycle, Architecture, Infrastructure at scale and Cross-team communication for Frontend Team.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 72,
+                    "user_id_id": 9,
+                    "starts_at": "2019-01-01T00:00:00Z",
+                    "ends_at": "2021-09-30T00:00:00Z",
+                    "company": "HackerRank",
+                    "title": "Software Development Engineer II",
+                    "description": "- Built an open source solution @hackerrank/firepad to have collaborative text editing using Monaco as editor. This library powers our own editors and IDE in our Interview platform.\n- Designed architecture and led development effort toward building virtual onsite experience for post-Covid Remote Interview setups.\n- Designed architecture for Interactive Playback system for reporting user interactions and activities in Interview platform during an interview process for evaluation purposes.\n- Conducting interviews for SDE II and SSE roles to upscale Engineering team to continue solving complex problems as they come.\n- Built an Open Source tool to extract Type information from library module to help to improve developer experience in consumer applications.\n- Continious improvement toward application performance and quality of experience.",
+                    "location": "Bengaluru Area, India"
+                },
+                {
+                    "id": 73,
+                    "user_id_id": 9,
+                    "starts_at": "2018-09-01T00:00:00Z",
+                    "ends_at": "2018-12-31T00:00:00Z",
+                    "company": "Chatbot Inc, Job Cirkit",
+                    "title": "Lead Software Engineer",
+                    "description": "Built a hiring platform from scratch to create easy experience for hiring manager for hiring blue-collar job and track their performance.\nWas Lead Frontend Engineer and built the product across multiple users and roles with high level of flexibility in UI.\nUsing best practices and TDD method to create whole software.\nUsed Technologies: React, Redux, Material Design, RSA Encryption",
+                    "location": "Kolkata Area, India"
+                },
+                {
+                    "id": 74,
+                    "user_id_id": 9,
+                    "starts_at": "2018-05-01T00:00:00Z",
+                    "ends_at": "2018-05-31T00:00:00Z",
+                    "company": "Apexcedo",
+                    "title": "Web Developer",
+                    "description": "Development of official site for Apexcedo, a consultation service for abroad study. Using Material Design principles on grid layout and UX is based on jQuery/Ajax.",
+                    "location": "Kolkata Area, India"
+                },
+                {
+                    "id": 75,
+                    "user_id_id": 9,
+                    "starts_at": "2018-02-01T00:00:00Z",
+                    "ends_at": "2018-06-30T00:00:00Z",
+                    "company": "Tech-Mantra",
+                    "title": "Project Supervisor",
+                    "description": "Project Supervisor and maintainer of Tech-Mantra, an open source organization. Currently working on on-line smart IDE Molan aimed for students and developers.",
+                    "location": "West Bengal, India"
+                },
+                {
+                    "id": 76,
+                    "user_id_id": 9,
+                    "starts_at": "2017-07-01T00:00:00Z",
+                    "ends_at": "2017-09-30T00:00:00Z",
+                    "company": "RegOpz Pvt. Ltd.",
+                    "title": "Web Application Developer",
+                    "description": "* Worked as a part of development team of cloud based multi-tenant web application that brings an ease of reporting monetary information/regulation in bank systems.\n* Design and improve component-driven Reactive web interface in React/Redux with Bootstrap UI.\n* Implemented role based functionality and accessibility and maker-checker algorithm for data update.\n* Manage and monitor data flow by a common RESTful API service in Flask-Python that utilizes high performance multi-threading and Dataframes.\n* Redesigned SQL Database that is structured and distributed among multiple clusters.",
+                    "location": "Easy Daftar, Karunamoyee, Salt Lake, Kolkata"
+                },
+                {
+                    "id": 77,
+                    "user_id_id": 9,
+                    "starts_at": "2017-02-01T00:00:00Z",
+                    "ends_at": "2019-06-30T00:00:00Z",
+                    "company": "Bytes Club",
+                    "title": "Co-Founder",
+                    "description": "Co-founder of Technical Club of West Bengal University of Technology aimed to improve knowledge and quality of IT products across multiple domain including - Software Development, Open Source, Internet of Things, Machine Learning, Competitive Programming etc.",
+                    "location": "West Bengal University of Technology"
+                },
+                {
+                    "id": 78,
+                    "user_id_id": 9,
+                    "starts_at": "2016-01-01T00:00:00Z",
+                    "ends_at": "2016-02-29T00:00:00Z",
+                    "company": "Ocaision",
+                    "title": "Web Developer",
+                    "description": "Creating UI and UX using LAMP Stack for the website.",
+                    "location": "Sector V, Salt Lake"
+                },
+                {
+                    "id": 79,
+                    "user_id_id": 9,
+                    "starts_at": "2018-06-01T00:00:00Z",
+                    "ends_at": "2018-08-31T00:00:00Z",
+                    "company": "Across The Globe (ATG)",
+                    "title": "Full Stack Engineer",
+                    "description": "• UI improvement and fluid event handling in jQuery.\n• Core mechanism of notification and mailing using scalable and maintainable trait.\n• Creating new functionality for both common users and administrator user.\n• Improved security of the application",
+                    "location": "Bengaluru Area, India"
+                },
+                {
+                    "id": 80,
+                    "user_id_id": 9,
+                    "starts_at": "2018-06-01T00:00:00Z",
+                    "ends_at": "2018-08-31T00:00:00Z",
+                    "company": "Mesh Education Inc.",
+                    "title": "Frontend Web Developer",
+                    "description": "* Worked as a part of a team to develop next generation teaching tool based on Machine Learning and deployed in Electron Desktop.\n* Implemented new features on caching, auto-updating and offline support as well as improved existing on core application in React and jQuery/NodeJS.\n* Performed global state management using Redux, creating asynchronous request using Axios and resolving promises using Redux-promise middleware.\n* Reactive UI/UX and API binding with WebSocket Channels and RESTful API serivce. Data (structured/unstructured) collection and monitoring for deep learning purpose as well as visualizing the output.\n* Worked on Green Sock Animation Plugin and React Transition to create user-friendly UI based on Semantic UI Framework.",
+                    "location": "Kolkata Area, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 15,
+                    "user_id_id": 9,
+                    "starts_at": "2015-01-01T00:00:00Z",
+                    "ends_at": "2019-12-31T00:00:00Z",
+                    "field_of_study": "Information Technology",
+                    "degree_name": "Engineer’s Degree",
+                    "school": "West Bengal University of Technology, Kolkata",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 16,
+                    "user_id_id": 9,
+                    "starts_at": "2007-01-01T00:00:00Z",
+                    "ends_at": "2015-12-31T00:00:00Z",
+                    "field_of_study": "Science",
+                    "degree_name": "Higher Secondary",
+                    "school": "Birati High School",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [
+                {
+                    "id": 8,
+                    "user_id_id": 9,
+                    "starts_at": "2017-02-01T00:00:00Z",
+                    "ends_at": "2019-06-30T00:00:00Z",
+                    "org_name": "Bytes Club",
+                    "title": "Co-founder",
+                    "description": null
+                }
+            ],
+            "useraccomplishmentprojects": [
+                {
+                    "id": 36,
+                    "user_id_id": 9,
+                    "starts_at": "2021-08-01T00:00:00Z",
+                    "ends_at": "2021-08-31T00:00:00Z",
+                    "title": "Operational Transformations",
+                    "description": "A collection of Synchronisation Algorithm and Adapters based upon Operational Transformation",
+                    "url": null
+                },
+                {
+                    "id": 37,
+                    "user_id_id": 9,
+                    "starts_at": "2021-11-01T00:00:00Z",
+                    "ends_at": "2021-11-30T00:00:00Z",
+                    "title": "storybook-addon-sass-postcss",
+                    "description": "A Storybook plugin/addon that incorporates loaders for External Stylesheets with SASS Language Support and CSS Modules with proper Post processing to support across multiple browser vendor and platforms.",
+                    "url": null
+                },
+                {
+                    "id": 38,
+                    "user_id_id": 9,
+                    "starts_at": "2020-06-01T00:00:00Z",
+                    "ends_at": "2020-11-30T00:00:00Z",
+                    "title": "babel-plugin-flow-generate-typedef",
+                    "description": "Babel Plugin to Generate Library Definition for Libraries and Modules.",
+                    "url": null
+                },
+                {
+                    "id": 39,
+                    "user_id_id": 9,
+                    "starts_at": "2017-07-01T00:00:00Z",
+                    "ends_at": "2019-06-30T00:00:00Z",
+                    "title": "MIPS Simulator",
+                    "description": "* A micro assembler and interpreter written for MIPS Assembly Language for education purpose.\n* Modular design for compiler to make it easily manageable, expandable and portable.\n* Follows standards for MIPS-IV.\n* Current Development: Stack memory allocation.",
+                    "url": null
+                },
+                {
+                    "id": 40,
+                    "user_id_id": 9,
+                    "starts_at": "2017-05-01T00:00:00Z",
+                    "ends_at": "2019-06-30T00:00:00Z",
+                    "title": "ServerX",
+                    "description": "* An Open-source HTTP/HTTPS Web Server Handler using Web Socket with parallel Data Processing (MIMD) capabilities.\n* Extensive use of multi-threading and dynamic memory allocation.\n* Cross-platform compatible with Socket IO.\n* Current Development: Keep-Alive Connections.",
+                    "url": null
+                }
+            ],
+            "uservolunteerwork": [
+                {
+                    "id": 15,
+                    "user_id_id": 9,
+                    "starts_at": "2021-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Coach",
+                    "description": "Helping people with Pro-bono consultation on Mental Health, Technology, Career, Resume Building and Interview Preparation. Follow: #TheProDev",
+                    "cause": "Social_services",
+                    "company": "The Pro Dev"
+                },
+                {
+                    "id": 16,
+                    "user_id_id": 9,
+                    "starts_at": "2022-02-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Community Builder",
+                    "description": "Helping people with Pro-bono consultation on Mental Health, Technology, Career, Resume Building and Interview Preparation. Follow: #TheProDev",
+                    "cause": "Education",
+                    "company": "Amazon Web Services (AWS)"
+                }
+            ],
+            "usercertifications": [
+                {
+                    "id": 50,
+                    "user_id_id": 9,
+                    "starts_at": "2020-04-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Getting Started with Google Kubernetes Engine",
+                    "license_number": "4127",
+                    "display_source": null,
+                    "authority": "Google",
+                    "url": null
+                },
+                {
+                    "id": 51,
+                    "user_id_id": 9,
+                    "starts_at": "2019-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Certified ScrumMaster (CSM)",
+                    "license_number": "000998883",
+                    "display_source": "progyan1997.github.io",
+                    "authority": "Scrum Alliance",
+                    "url": "https://progyan1997.github.io/cert/Progyan%20Bhattacharya-ScrumAlliance_CSM_Certificate.pdf"
+                },
+                {
+                    "id": 52,
+                    "user_id_id": 9,
+                    "starts_at": "2016-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "CS50 : edX Honor Code Certificate for Introduction to Computer Science",
+                    "license_number": null,
+                    "display_source": "edx.org",
+                    "authority": "edX",
+                    "url": "https://courses.edx.org/certificates/b1202a7695ac4acfaa3fa7ee9e444de3"
+                },
+                {
+                    "id": 53,
+                    "user_id_id": 9,
+                    "starts_at": "2016-01-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "edX Honor Code Certificate for Programming with C#",
+                    "license_number": null,
+                    "display_source": "edx.org",
+                    "authority": "edX",
+                    "url": "https://courses.edx.org/certificates/56b372ce796c48dc8438a5efc10aa026"
+                },
+                {
+                    "id": 54,
+                    "user_id_id": 9,
+                    "starts_at": "2015-11-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "edX Honor Code Certificate for Introduction to Bootstrap",
+                    "license_number": null,
+                    "display_source": "s3.amazonaws.com",
+                    "authority": "edX",
+                    "url": "https://s3.amazonaws.com/verify.edx.org/downloads/a7f65353a345463b846c1211d23b90ab/Certificate.pdf"
+                },
+                {
+                    "id": 55,
+                    "user_id_id": 9,
+                    "starts_at": null,
+                    "ends_at": null,
+                    "name": "edX Verified Certificate for Introduction to Computer Science",
+                    "license_number": null,
+                    "display_source": "edx.org",
+                    "authority": "edX",
+                    "url": "https://courses.edx.org/certificates/1317344838614ae597d7e32935a4b677"
+                },
+                {
+                    "id": 56,
+                    "user_id_id": 9,
+                    "starts_at": null,
+                    "ends_at": null,
+                    "name": "edX Verified Certificate for Introduction to Computer Science and Programming Using Python",
+                    "license_number": null,
+                    "display_source": "edx.org",
+                    "authority": "edX",
+                    "url": "https://courses.edx.org/certificates/9a9ae7490d1f494aae30f145c994fb14"
+                }
+            ],
+            "useraccomplishmentpublications": [
+                {
+                    "id": 43,
+                    "user_id_id": 9,
+                    "name": "Optimise Your Docker Image Builds in Gitlab C",
+                    "publisher": "AWS Community Builder",
+                    "published_on": "2022-01-01T00:00:00Z",
+                    "description": "A Data Service that can enact transactions across multiple persistent layers with flexibility in choices of services and databases, the TypeScript way.",
+                    "url": "https://dev.to/aws-builders/optimise-your-docker-image-builds-in-gitlab-ci-189l"
+                },
+                {
+                    "id": 44,
+                    "user_id_id": 9,
+                    "name": "Bulding a Scalable Data Service in the Modern Microservices World",
+                    "publisher": "Level Up Coding - Git Connected",
+                    "published_on": "2021-01-01T00:00:00Z",
+                    "description": "Defining single module with Lexical Scoping and Closure in ES5 and using Container Module Pattern (Inversion of Control) to maintain dependencies across multiple modules.",
+                    "url": "https://levelup.gitconnected.com/bulding-a-scalable-data-service-in-the-modern-microservices-world-481f9d1cabad"
+                },
+                {
+                    "id": 45,
+                    "user_id_id": 9,
+                    "name": "Evolution of Modules in JavaScript with Dependency Injection",
+                    "publisher": "JavaScript in Plain English",
+                    "published_on": "2021-01-01T00:00:00Z",
+                    "description": "Adapter Pattern is a part of Hexagonal Architecture and it creates interface as your contract with outside world. One can use multiple plugs in multiple sockets with the help of an adapter as mediator.",
+                    "url": "https://javascript.plainenglish.io/evolution-of-modules-in-javascript-with-dependency-injection-5c51a3f6442e"
+                },
+                {
+                    "id": 46,
+                    "user_id_id": 9,
+                    "name": "The Adapter Pattern: Create One, Use Many",
+                    "publisher": "JavaScript in Plain English",
+                    "published_on": "2021-01-01T00:00:00Z",
+                    "description": "Repository as a perfect place to put your Domain logic for Data Models outside Enitity Definition.",
+                    "url": "https://javascript.plainenglish.io/adapter-pattern-create-one-use-many-ee928f02a2d8"
+                },
+                {
+                    "id": 47,
+                    "user_id_id": 9,
+                    "name": "Inside Out: Repository Pattern for Data Layer",
+                    "publisher": "The Startup",
+                    "published_on": "2020-01-01T00:00:00Z",
+                    "description": "Explanation of Hexaginal Architecture Princeples of Domain Driven Development in Web Ecosystem using React as framework.",
+                    "url": "https://medium.com/swlh/inside-out-repository-pattern-for-data-layer-5eca4dd0e7d4"
+                },
+                {
+                    "id": 48,
+                    "user_id_id": 9,
+                    "name": "Inside Out: Hexagonal Architecture in React",
+                    "publisher": "The Startup",
+                    "published_on": "2019-01-01T00:00:00Z",
+                    "description": "A quirky way of caching Docker FS layers to speed up CI build time.",
+                    "url": "https://medium.com/swlh/inside-out-hexagonal-architecture-in-react-de0642a31e63"
+                }
+            ],
+            "useraccomplishmenthonorsawards": [
+                {
+                    "id": 36,
+                    "user_id_id": 9,
+                    "title": "Hacktoberfest 2019",
+                    "issuer": "DigitalOcean",
+                    "issued_on": "2019-10-01T00:00:00Z",
+                    "description": null
+                },
+                {
+                    "id": 37,
+                    "user_id_id": 9,
+                    "title": "Hactoberfest 2018",
+                    "issuer": "DigitalOcean",
+                    "issued_on": "2018-10-01T00:00:00Z",
+                    "description": null
+                },
+                {
+                    "id": 38,
+                    "user_id_id": 9,
+                    "title": "Hactoberfest 2017",
+                    "issuer": "DigitalOcean",
+                    "issued_on": "2017-10-01T00:00:00Z",
+                    "description": "Contributing to the Open Source community in GitHub"
+                },
+                {
+                    "id": 39,
+                    "user_id_id": 9,
+                    "title": "AWS Community Builder",
+                    "issuer": "Amazon Web Services",
+                    "issued_on": "2022-02-01T00:00:00Z",
+                    "description": null
+                },
+                {
+                    "id": 40,
+                    "user_id_id": 9,
+                    "title": "Hacktoberfest 2020",
+                    "issuer": "DigitalOcean Inc.",
+                    "issued_on": "2020-10-01T00:00:00Z",
+                    "description": null
+                }
+            ]
+        }
+    }
+}
