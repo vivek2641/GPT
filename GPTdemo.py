@@ -365,7 +365,7 @@ def index():
         engine="text-davinci-003",
         prompt=job_gpt_prompt,
         temperature=0.99,
-        max_tokens=2048,
+        max_tokens=500,
         top_p=1.0,
         frequency_penalty=0.3,
         presence_penalty=0.9
@@ -378,7 +378,7 @@ def index():
         engine="text-davinci-003",
         prompt=gpt_prompt,
         temperature=0.99,
-        max_tokens=2048,
+        max_tokens=500,
         top_p=1.0,
         frequency_penalty=0.3,
         presence_penalty=0.9
