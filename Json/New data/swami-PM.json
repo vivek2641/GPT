@@ -1,0 +1,117 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/swaminathan-mohan-iyer-142722121/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230124%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230124T124055Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=148f5e97990a60558d56703c9c800a2f57dfb62ebd46569e62fc51976d04ce8b",
+        "first_name": "Swaminathan Mohan",
+        "last_name": "Iyer",
+        "occupation": "Product Manager at Interview Kickstart",
+        "email": "swami@gmail.com",
+        "headline": "Product @ Interview Kickstart | Ex Media.net | Business Management - XLRI Jamshedpur |14 time National & Campus case competition finalist",
+        "summary": "I love building things!\n\nA long time ago, I sat next to a friend who was writing a basic program in C. I watched her write lines of code, looking at mysterious compiler messages, and finally, a console that took my name as an input and returned a message \"Hello Swami!!!\". I was in absolute awe at this, by just typing in a few funny little symbols, limited only by imagination and ingenuity, I could build absolutely anything! I latched onto any projects I could find, going from a simple Hello World to a share predicting systems or even a strategy game! \n\nThis passion for building things has carried me throughout my education at XLRI, in the industry, and in pretty much everything I do. Building strategies, frameworks and action plans are just as exciting. Taking the various parts of a project and stakeholders and one l putting them together in a structured, meaningful manner is how I approach most of the challenging problems in my life. \n\nOwning a product or an strategy, conceptualizing it, innovating around it, molding and shaping it, watching it grow into something amazing is one of the best feelings ever.\n\nWhen I'm not formulating roadmaps or designing architectures, I am setting the kitchen aflame with my pizzas (mostly burning them), reading works of fiction, constantly learning about new innovations in technology, or watching re-runs of The Office.\n\nPlease feel free to reach out for absolutely anything under the sun, especially if you're a bit lost and need some support.",
+        "country_full_name": "India",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "languages": [
+            "English",
+            "Tamil",
+            "Hindi",
+            "Telugu",
+            "French"
+        ],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 159,
+                    "user_id_id": 10,
+                    "starts_at": "2022-02-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Interview Kickstart",
+                    "title": "Product Manager",
+                    "description": null,
+                    "location": "Remote"
+                },
+                {
+                    "id": 160,
+                    "user_id_id": 10,
+                    "starts_at": "2020-05-01T00:00:00Z",
+                    "ends_at": "2022-02-28T00:00:00Z",
+                    "company": "Media.net",
+                    "title": "Product Manager",
+                    "description": "Product innovation, feature prioritization, scoping, resource conflicts, scheduling, progress tracking, product strategy, product releases, and road-mapping. Responsible for driving machine learning-powered solutions.",
+                    "location": "Mumbai, Maharashtra, India"
+                },
+                {
+                    "id": 161,
+                    "user_id_id": 10,
+                    "starts_at": "2019-04-01T00:00:00Z",
+                    "ends_at": "2019-05-31T00:00:00Z",
+                    "company": "HSBC",
+                    "title": "Intern",
+                    "description": "Worked in the global liquidity and cash management division. Responsible for identifying gaps in the commercialization funnel and mechanisms to drive up the net revenue. Developed project roadmaps, automation solutions and a strategy for a data management platform.",
+                    "location": "Mumbai, Maharashtra, India"
+                },
+                {
+                    "id": 162,
+                    "user_id_id": 10,
+                    "starts_at": "2016-07-01T00:00:00Z",
+                    "ends_at": "2018-03-31T00:00:00Z",
+                    "company": "JUSPAY",
+                    "title": "Product Manager",
+                    "description": "Product owner, designing the roadmap, epics, user stories, timelines, sprint planning, KPIs, and managing the team to effectively deliver these goals. Built products such as BHIM UPI, Kotak mVisa etc.",
+                    "location": "Bengaluru Area, India"
+                },
+                {
+                    "id": 163,
+                    "user_id_id": 10,
+                    "starts_at": "2016-01-01T00:00:00Z",
+                    "ends_at": "2016-06-30T00:00:00Z",
+                    "company": "VMware",
+                    "title": "Intern",
+                    "description": "Actively worked in driving and developing multiple projects including Machine learning and Neural Networks. Project manager of a cross country server migration. Led the development of a tool providing a snapshot of the entire business.",
+                    "location": "Bangalore"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 36,
+                    "user_id_id": 10,
+                    "starts_at": "2018-01-01T00:00:00Z",
+                    "ends_at": "2020-12-31T00:00:00Z",
+                    "field_of_study": "Business Management",
+                    "degree_name": "Master of Business Administration - MBA",
+                    "school": "XLRI Jamshedpur",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 37,
+                    "user_id_id": 10,
+                    "starts_at": "2012-01-01T00:00:00Z",
+                    "ends_at": "2016-12-31T00:00:00Z",
+                    "field_of_study": "Information Technology",
+                    "degree_name": "Bachelor of Technology (B.Tech.)",
+                    "school": "Shanmugha Arts, Science, Technology and Research Academy",
+                    "grade": null,
+                    "description": "Member of the Google student's club, conducted various events at department fests, coding contests, inter-departmental contests, embedded club, robotics workshops"
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [
+                {
+                    "id": 31,
+                    "user_id_id": 10,
+                    "starts_at": null,
+                    "ends_at": null,
+                    "title": "Rescue",
+                    "description": "Involved in rescue, food distribution and rehabilitation efforts during and after the Chennai foods.",
+                    "cause": "Disaster and Humanitarian Relief",
+                    "company": "Chennai Floods"
+                }
+            ],
+            "usercertifications": [],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

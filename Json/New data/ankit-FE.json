@@ -1,0 +1,216 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ankitsinghaniyaz/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230124%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230124T124608Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=81f71d479c6895af57d8c387d1c390e633af80cd449a2f7ea934309b9589af58",
+        "first_name": "Ankit",
+        "last_name": "Singhaniya",
+        "occupation": "Partner at Acorn Globus",
+        "email": "ankit@gmail.com",
+        "headline": "Helping startups take ideas into production | SAAS expertise | Engineering",
+        "summary": "Experince working on green fields projects and taking products from idea to MVP stage. A keen sense of business to deliver value when solving problem through technology makes sense.\n\nWork and augment growing teams to support full lifecycle of software development.",
+        "country_full_name": "India",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "languages": [
+            "English",
+            "Hindi",
+            "Spanish"
+        ],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 164,
+                    "user_id_id": 11,
+                    "starts_at": "2021-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Interview Kickstart",
+                    "title": "Software Consultant",
+                    "description": "Build Vue.js powered frontend system which enables customer and internal teams.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 165,
+                    "user_id_id": 11,
+                    "starts_at": "2020-04-01T00:00:00Z",
+                    "ends_at": "2021-09-30T00:00:00Z",
+                    "company": "EITOSS Inc,",
+                    "title": "Senior Software Consultant",
+                    "description": "Eitoss is a communication tool for managers and frontline workers. It builds on the concept of Kaizen and helps companies build a product that is driven by the people who are on the frontline.\n\nWe helped to build the v1 of the application and get it out to general users and investors. It was built using Ruby on Rails, MySQL, Amazon web services.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 166,
+                    "user_id_id": 11,
+                    "starts_at": "2020-03-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Formester Inc",
+                    "title": "Co-Founder",
+                    "description": null,
+                    "location": null
+                },
+                {
+                    "id": 167,
+                    "user_id_id": 11,
+                    "starts_at": "2019-01-01T00:00:00Z",
+                    "ends_at": "2022-01-31T00:00:00Z",
+                    "company": "F22 Labs",
+                    "title": "Software Consultant",
+                    "description": "Worked on SkyMD (a US-based telemedicine company). Lead the feature development and improvement efforts. Scale the application to handle the growing number of patients and requirements from internal providers.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 168,
+                    "user_id_id": 11,
+                    "starts_at": "2018-04-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Acorn Globus",
+                    "title": "Partner",
+                    "description": null,
+                    "location": "India"
+                },
+                {
+                    "id": 169,
+                    "user_id_id": 11,
+                    "starts_at": "2018-02-01T00:00:00Z",
+                    "ends_at": "2019-01-31T00:00:00Z",
+                    "company": "EquipmentConnect",
+                    "title": "Frontend Engineer",
+                    "description": "Build Vue.js powered frontend system which enables customer and internal teams.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 170,
+                    "user_id_id": 11,
+                    "starts_at": "2017-12-01T00:00:00Z",
+                    "ends_at": "2018-02-28T00:00:00Z",
+                    "company": "Selectom",
+                    "title": "Backend Developer",
+                    "description": "Create microservices, APIs and other tooling required to connect the best companies to the top marketers around the globe.",
+                    "location": "Remote"
+                },
+                {
+                    "id": 171,
+                    "user_id_id": 11,
+                    "starts_at": "2016-06-01T00:00:00Z",
+                    "ends_at": "2017-10-31T00:00:00Z",
+                    "company": "ReportGarden",
+                    "title": "Full Stack Developer",
+                    "description": "Create, maintain and test full-stack applications. Mostly using Ruby on Rails and React.js. Integrate several 3rd party APIs like Facebook, Chargebee, etc.",
+                    "location": "Hyderabad, Telangana, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 38,
+                    "user_id_id": 11,
+                    "starts_at": "2012-06-01T00:00:00Z",
+                    "ends_at": "2016-06-30T00:00:00Z",
+                    "field_of_study": "Computer Scienc",
+                    "degree_name": "Bachelor of Engineering - BE",
+                    "school": "Savitribai Phule Pune University",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 39,
+                    "user_id_id": 11,
+                    "starts_at": "2010-01-01T00:00:00Z",
+                    "ends_at": "2012-12-31T00:00:00Z",
+                    "field_of_study": "Science",
+                    "degree_name": "High School",
+                    "school": "Motilal Nehru Public School",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [
+                {
+                    "id": 78,
+                    "user_id_id": 11,
+                    "starts_at": "2016-08-01T00:00:00Z",
+                    "ends_at": "2016-08-31T00:00:00Z",
+                    "title": "Quoted: Explore Quotes",
+                    "description": "Android Application to explore new quotes, blend them with beautiful HD backdrops and share. All of these with easy to use experience, low app footprint.",
+                    "url": null
+                },
+                {
+                    "id": 79,
+                    "user_id_id": 11,
+                    "starts_at": "2015-07-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Adaptive High Intensity Intervel Training Android Application",
+                    "description": "High Intensity Interval Training is the solution to all fitness problems in today's hectic schedule. Workout for 7 min every day and stay fit.",
+                    "url": "https://play.google.com/store/apps/details?id=com.classandobjects.quoted"
+                }
+            ],
+            "uservolunteerwork": [
+                {
+                    "id": 32,
+                    "user_id_id": 11,
+                    "starts_at": "2015-01-01T00:00:00Z",
+                    "ends_at": "2015-02-28T00:00:00Z",
+                    "title": "Team Lead",
+                    "description": "Organizing the event named MindDoc- A technical article writing competition, sponsored by Cybertimes Intenational Journal of Science.",
+                    "cause": null,
+                    "company": "Techtonic Sinhgad Karandak"
+                },
+                {
+                    "id": 33,
+                    "user_id_id": 11,
+                    "starts_at": "2013-04-01T00:00:00Z",
+                    "ends_at": "2014-04-30T00:00:00Z",
+                    "title": "Google Student Ambassador",
+                    "description": "Create awareness about mobile and cloud technologies in the college. Learn, conduct and organize workshops on Android.",
+                    "cause": "Education",
+                    "company": "Google"
+                }
+            ],
+            "usercertifications": [
+                {
+                    "id": 93,
+                    "user_id_id": 11,
+                    "starts_at": "2014-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "AMCAT Certified Data Processing Specialist",
+                    "license_number": "878327-211",
+                    "display_source": "myamcat.com",
+                    "authority": "Aspiring Minds",
+                    "url": "https://www.myamcat.com/certificate/878327/data-processing-specialist/211"
+                },
+                {
+                    "id": 94,
+                    "user_id_id": 11,
+                    "starts_at": "2014-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Google Online Marketing Lab",
+                    "license_number": null,
+                    "display_source": null,
+                    "authority": "Google",
+                    "url": null
+                }
+            ],
+            "useraccomplishmentpublications": [
+                {
+                    "id": 74,
+                    "user_id_id": 11,
+                    "name": "Adaptive High Intensity Interval Training Application Using Android",
+                    "publisher": "IIJCS",
+                    "published_on": "2015-01-01T00:00:00Z",
+                    "description": "This paper describes how AI and Data Mining can be incorporated into already well know High Intensity Interval Training. This will enable user to get a better workout routine within the minimum available time span. It also enhances the quality of workout.",
+                    "url": "http://ipasj.org/IIJCS/Volume3Issue10/IIJCS-2015-10-12-8.pdf"
+                }
+            ],
+            "useraccomplishmenthonorsawards": [
+                {
+                    "id": 62,
+                    "user_id_id": 11,
+                    "title": "Digital Pune Hackathon First Runner Up",
+                    "issuer": "Persistent Systems",
+                    "issued_on": "2015-10-01T00:00:00Z",
+                    "description": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jaykishan-rajpara-a40a46175/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230124%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230124T130513Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=90ac73154e45d93eff6362fd1c0d40dd24ab50681430bed76da5f679131f2e28",
+        "first_name": "Jaykishan",
+        "last_name": "Rajpara",
+        "occupation": "User Experience Designer at FrontRow",
+        "email": "jk@gmail.com",
+        "headline": "Design Intern at FrontRow",
+        "summary": "I have 4 years of experience in Graphic design and 3 years of experience as a UI/UX Designer. I've been leading a design team at SVIT since 2018. Currently I'm working on different design projects and available for any kind of design projects and jobs.",
+        "country_full_name": "India",
+        "city": "Vadodara",
+        "state": "Gujarat",
+        "languages": [],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 191,
+                    "user_id_id": 15,
+                    "starts_at": "2021-03-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "FrontRow",
+                    "title": "User Experience Designer",
+                    "description": "Graphic and UI/UX Design Intern at FrontRow",
+                    "location": null
+                },
+                {
+                    "id": 192,
+                    "user_id_id": 15,
+                    "starts_at": "2020-04-01T00:00:00Z",
+                    "ends_at": "2020-08-31T00:00:00Z",
+                    "company": "AsianWeb Technologies",
+                    "title": "Graphic Designer",
+                    "description": null,
+                    "location": "Vadodara, Gujarat, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 46,
+                    "user_id_id": 15,
+                    "starts_at": "2017-01-01T00:00:00Z",
+                    "ends_at": "2021-12-31T00:00:00Z",
+                    "field_of_study": "Computer Engineering",
+                    "degree_name": "BE - Bachelor of Engineering",
+                    "school": "SARDAR VALLABHBHAI PATEL INSTITUTE OF TECH.,VASAD 041",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [],
+            "usercertifications": [],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

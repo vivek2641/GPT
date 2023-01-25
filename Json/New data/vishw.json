@@ -1,0 +1,165 @@
+{
+    "data": {
+        "profile_pic_url": null,
+        "first_name": "Vishw",
+        "last_name": "Kadu",
+        "occupation": "Full Stack Engineer at F(x) Data Labs",
+        "email": "vishwk@htree.plus",
+        "headline": "Full Stack Engineer | Contaractor",
+        "summary": "Innovative and task-driven professional with 1.5 years of\rexperience in development across diverse industries. Equipped\rwith a record of success in consistently identifying and\rproviding the technological needs of companies through\ringenious innovation. Proficient in developing databases,\rcreating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new\rfeatures based on user feedback.",
+        "country_full_name": "India",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "languages": [
+            "English",
+            "Gujrati",
+            "Hindi",
+            "Marathi"
+        ],
+        "skills": [
+            "react",
+            "nodejs",
+            "python",
+            "django"
+        ],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 143,
+                    "user_id_id": 5,
+                    "starts_at": "2021-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "F(x) Data Labs",
+                    "title": "Full Stack Engineer",
+                    "description": null,
+                    "location": "Ahmedabad"
+                },
+                {
+                    "id": 144,
+                    "user_id_id": 5,
+                    "starts_at": "2021-01-01T00:00:00Z",
+                    "ends_at": "2021-02-01T00:00:00Z",
+                    "company": "The Sparks Foundation",
+                    "title": "Web Development Intern",
+                    "description": "I completed a one month internship as a web developer. As a part of internship, I build basic banking Web App using ReactJs, PHP and Mysql.",
+                    "location": null
+                },
+                {
+                    "id": 145,
+                    "user_id_id": 5,
+                    "starts_at": "2019-11-01T00:00:00Z",
+                    "ends_at": "2020-11-01T00:00:00Z",
+                    "company": "Wisebite.in",
+                    "title": "Freelance Blogger",
+                    "description": "Blog Writer at Wisebite.in",
+                    "location": "Ahmedabad, Gujarat, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 31,
+                    "user_id_id": 5,
+                    "starts_at": "2019-01-01T00:00:00Z",
+                    "ends_at": "2022-01-01T00:00:00Z",
+                    "field_of_study": "Computer Programming/Programmer, General",
+                    "degree_name": "Bachelor of Engineering - BE",
+                    "school": "Government Engineering College,Gandhinagar",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 32,
+                    "user_id_id": 5,
+                    "starts_at": "2016-01-01T00:00:00Z",
+                    "ends_at": "2019-01-01T00:00:00Z",
+                    "field_of_study": "Computer Engineering",
+                    "degree_name": "High School Diploma",
+                    "school": "R.C.Technical Institute,Ahmedabad 640",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [
+                {
+                    "id": 76,
+                    "user_id_id": 5,
+                    "starts_at": "2018-10-01T00:00:00Z",
+                    "ends_at": "2019-04-01T00:00:00Z",
+                    "title": "Unomation",
+                    "description": "Unomation Is Home Automation Application Made Using Arduino Uno and Various Sensors.",
+                    "url": null
+                }
+            ],
+            "uservolunteerwork": [
+                {
+                    "id": 25,
+                    "user_id_id": 5,
+                    "starts_at": "2020-03-01T00:00:00Z",
+                    "ends_at": "2020-03-01T00:00:00Z",
+                    "title": "Coordinator",
+                    "description": "coordinator of Code-o-fiesta",
+                    "cause": "ARTS_AND_CULTURE",
+                    "company": "Government Engineering College, Gandhinagar"
+                },
+                {
+                    "id": 26,
+                    "user_id_id": 5,
+                    "starts_at": "2020-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Tutor",
+                    "description": "Content Creator at High On Code YouTube channel on PHP Topic.",
+                    "cause": "EDUCATION",
+                    "company": "YouTube"
+                },
+                {
+                    "id": 27,
+                    "user_id_id": 5,
+                    "starts_at": "2019-11-01T00:00:00Z",
+                    "ends_at": "2020-11-01T00:00:00Z",
+                    "title": "Freelance Blogger",
+                    "description": "Content Writer At Wisebite.in",
+                    "cause": "SCIENCE_AND_TECHNOLOGY",
+                    "company": "Wisebite.in"
+                }
+            ],
+            "usercertifications": [
+                {
+                    "id": 85,
+                    "user_id_id": 5,
+                    "starts_at": "2020-11-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Front-End Web Development with React",
+                    "license_number": "DLRWAD5U5C6H",
+                    "display_source": "coursera.org",
+                    "authority": "Coursera",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/DLRWAD5U5C6H"
+                },
+                {
+                    "id": 86,
+                    "user_id_id": 5,
+                    "starts_at": "2020-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+                    "license_number": "HXGGC6MGAWNB",
+                    "display_source": "coursera.org",
+                    "authority": "Coursera",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/HXGGC6MGAWNB"
+                },
+                {
+                    "id": 87,
+                    "user_id_id": 5,
+                    "starts_at": "2020-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Introduction and Programming with IoT Boards",
+                    "license_number": "DRV4563PWPWU",
+                    "display_source": "coursera.org",
+                    "authority": "Coursera",
+                    "url": "https://www.coursera.org/account/accomplishments/certificate/DRV4563PWPWU"
+                }
+            ],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

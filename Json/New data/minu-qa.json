@@ -1,0 +1,82 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/minu-preethi-eswaran-86369b160/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230124%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230124T124932Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b3fe3fe59c893cf0412b9643223bfad1e0be4bf2cef10695ea90cbd54d83d0dd",
+        "first_name": "Minu Preethi",
+        "last_name": "Eswaran",
+        "occupation": "QA Engineer at Interview Kickstart",
+        "email": "minu@gmail.com",
+        "headline": null,
+        "summary": null,
+        "country_full_name": "India",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "languages": [],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 172,
+                    "user_id_id": 12,
+                    "starts_at": "2021-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Interview Kickstart",
+                    "title": "QA Engineer",
+                    "description": null,
+                    "location": "Remote"
+                },
+                {
+                    "id": 173,
+                    "user_id_id": 12,
+                    "starts_at": "2019-05-01T00:00:00Z",
+                    "ends_at": "2021-10-31T00:00:00Z",
+                    "company": "Virtusa",
+                    "title": "Engineer",
+                    "description": null,
+                    "location": null
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 40,
+                    "user_id_id": 12,
+                    "starts_at": "2015-01-01T00:00:00Z",
+                    "ends_at": "2019-12-31T00:00:00Z",
+                    "field_of_study": "Information Technology",
+                    "degree_name": "Bachelor of Technology",
+                    "school": "Sri Krishna College of Technology",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 41,
+                    "user_id_id": 12,
+                    "starts_at": "2013-01-01T00:00:00Z",
+                    "ends_at": "2015-12-31T00:00:00Z",
+                    "field_of_study": "Mathematics and Computer Science",
+                    "degree_name": "HSC",
+                    "school": "St. Joseph's Convent Anglo Indian Girls Higher Secondary School, Coonoor",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [],
+            "usercertifications": [
+                {
+                    "id": 95,
+                    "user_id_id": 12,
+                    "starts_at": "2019-01-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Oracle Certified Associate, Java SE 8 Programmer",
+                    "license_number": null,
+                    "display_source": null,
+                    "authority": "Oracle",
+                    "url": null
+                }
+            ],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jaimevillela/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230123%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230123T055016Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6bdeb7f8b54ebe8654239496d0e6baa364bfda8443ff8c662e295de35ae29c89",
+        "first_name": "Jaime",
+        "last_name": "Villela",
+        "occupation": "DLP Architect at i4DM",
+        "email": "vishwkk@htree.plus",
+        "headline": "Cybersecurity Engineer",
+        "summary": null,
+        "country_full_name": "United States of America",
+        "city": "Dallas",
+        "state": "Texas",
+        "languages": [
+            "Spanish"
+        ],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 146,
+                    "user_id_id": 6,
+                    "starts_at": "2022-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "i4DM",
+                    "title": "DLP Architect",
+                    "description": null,
+                    "location": null
+                },
+                {
+                    "id": 147,
+                    "user_id_id": 6,
+                    "starts_at": "2018-06-01T00:00:00Z",
+                    "ends_at": "2022-06-30T00:00:00Z",
+                    "company": "GM Financial",
+                    "title": "Sr. Cybersecurity Engineer",
+                    "description": "* Responsible for implementing and tuning policies to protect sensitive data.  \n  * Converting sensitive data type formats to regex patterns and tuning existing patterns.  \n  * Creating rules and applying them via different tools.\n* Reduced long process time from hours/days to minutes via scripts written in PowerShell and Python.\n* Created SQL queries for extracting useful information from back-end database for internal customers.",
+                    "location": "United States"
+                },
+                {
+                    "id": 148,
+                    "user_id_id": 6,
+                    "starts_at": "2016-06-01T00:00:00Z",
+                    "ends_at": "2018-06-30T00:00:00Z",
+                    "company": "McAfee",
+                    "title": "Data Loss Prevention Engineer",
+                    "description": "* Developed and conducted Linux classes for a group of peers.\n* Consistently provide posts on how to resolve uncommon product issues.\n* Wrote scripts to automate MySQL queries on Linux-based cyber security appliances.",
+                    "location": "Plano, TX"
+                },
+                {
+                    "id": 149,
+                    "user_id_id": 6,
+                    "starts_at": "2012-05-01T00:00:00Z",
+                    "ends_at": "2016-06-30T00:00:00Z",
+                    "company": "New York Air Brake",
+                    "title": "Embedded Systems Developer",
+                    "description": "* Author and test software (written in C) to interface between an on-board device and a remote customer network.\n* Wrote a C library for serializing data.  \n* Wrote a \"wrapper\" to facilitate calling C++ functions from C programs.  \n* Implemented a simple client/server state machine.",
+                    "location": null
+                },
+                {
+                    "id": 150,
+                    "user_id_id": 6,
+                    "starts_at": "2010-04-01T00:00:00Z",
+                    "ends_at": "2012-05-31T00:00:00Z",
+                    "company": "New York Air Brake",
+                    "title": "Sustaining Engineer",
+                    "description": "Provide resolution to customer issues as related to simulator systems.",
+                    "location": null
+                },
+                {
+                    "id": 151,
+                    "user_id_id": 6,
+                    "starts_at": "2007-08-01T00:00:00Z",
+                    "ends_at": "2010-03-31T00:00:00Z",
+                    "company": "Fuel7",
+                    "title": "Embedded Systems Developer",
+                    "description": "Embedded systems programmer.\n* Helped author a multi-platform, embedded framework in C.\n** Implemented a utility to monitor file activity both statically and dynamically\n** Implemented a binary tree data structure\n** Implemented an API to handle file metadata\n** Authored unit tests for different subsystems\n* Helped implement a graphics overlay feature for high-end video consumer electronics device.\n* Modified the Linux USB driver to act as a mass-storage interface between Linux and Windows.\n* Helped port Qt embedded to an older version of Linux.",
+                    "location": null
+                },
+                {
+                    "id": 152,
+                    "user_id_id": 6,
+                    "starts_at": "2006-10-01T00:00:00Z",
+                    "ends_at": "2007-07-31T00:00:00Z",
+                    "company": "ImmuLab",
+                    "title": "Field Service Director",
+                    "description": "*Technical support.\n*Troubleshooting and repair of Hematology Analyzers from the system level to the component level.\n*Researching inventory control software packages.",
+                    "location": null
+                },
+                {
+                    "id": 153,
+                    "user_id_id": 6,
+                    "starts_at": "2003-04-01T00:00:00Z",
+                    "ends_at": "2006-10-31T00:00:00Z",
+                    "company": "Drew Scientific",
+                    "title": "Field Service Lead Engineer",
+                    "description": "*Technical support via telephone and email.\n*Troubleshooting and repair of instruments from the system level to the component level.\n*Technical training in both English and Spanish.",
+                    "location": null
+                },
+                {
+                    "id": 154,
+                    "user_id_id": 6,
+                    "starts_at": "1999-11-01T00:00:00Z",
+                    "ends_at": "2001-09-30T00:00:00Z",
+                    "company": "Fujitsu Network Communications",
+                    "title": "Hardware Engineer",
+                    "description": "*Hardware design testing.\n*Programmable logic design.\n*Simulation test script development and application.",
+                    "location": null
+                },
+                {
+                    "id": 155,
+                    "user_id_id": 6,
+                    "starts_at": "1996-09-01T00:00:00Z",
+                    "ends_at": "1999-11-30T00:00:00Z",
+                    "company": "Intelect",
+                    "title": "Hardware Engineer",
+                    "description": "*Programmable logic design.\n*System integration test.\n*Test procedure development.\n*Hardware design modification.",
+                    "location": null
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 33,
+                    "user_id_id": 6,
+                    "starts_at": "1994-01-01T00:00:00Z",
+                    "ends_at": "1996-12-31T00:00:00Z",
+                    "field_of_study": "Electrical and Electronics Engineering",
+                    "degree_name": "Bachelor of Science (B.S.)",
+                    "school": "The University of Texas at Arlington",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [],
+            "usercertifications": [
+                {
+                    "id": 88,
+                    "user_id_id": 6,
+                    "starts_at": "2022-11-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Tableau 2022: Hands-On Tableau Training For Data Science!",
+                    "license_number": null,
+                    "display_source": "sds-platform-public.s3.us-east-2.amazonaws.com",
+                    "authority": "SuperDataScience",
+                    "url": "https://sds-platform-public.s3.us-east-2.amazonaws.com/users/e6jzxhJDQGaFtTzDX/course-certificates/J2nm46W5D7kSYKjC2.pdf"
+                },
+                {
+                    "id": 89,
+                    "user_id_id": 6,
+                    "starts_at": "2022-09-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "AWS Cloud Quest: Cloud Practitioner",
+                    "license_number": null,
+                    "display_source": "www.credly.com",
+                    "authority": "Amazon Web Services (AWS)",
+                    "url": "https://www.credly.com/badges/11ee02ff-3ff7-4b0f-8485-d53f97f54773/linked_in_profile"
+                }
+            ],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

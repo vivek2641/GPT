@@ -1,0 +1,191 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/charleslamanna/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230124%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230124T125644Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4a40ff78d25157a7d913fa5647075541805e16a702a1c6e144adeac420e3772f",
+        "first_name": "Charles",
+        "last_name": "Lamanna",
+        "occupation": "Corporate Vice President at Microsoft",
+        "email": "random1@gmail.com",
+        "headline": "Corporate Vice President, Business Apps & Platform at Microsoft",
+        "summary": "Responsible for the business applications and low code platform product portfolio at Microsoft. This includes the Dynamics 365 applications, Power Apps, Power Automate, Power Virtual Agent, and more. The team spans product management, engineering, site reliability, and operations.",
+        "country_full_name": "United States of America",
+        "city": "Bellevue",
+        "state": "Washington",
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 174,
+                    "user_id_id": 13,
+                    "starts_at": "2021-07-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Microsoft",
+                    "title": "Corporate Vice President",
+                    "description": "Responsible for the product portfolio for business applications and low code platforms at Microsoft. This includes the Dynamics 365 applications, Power Apps, Power Automate, Power Virtual Agent, and more.",
+                    "location": null
+                },
+                {
+                    "id": 175,
+                    "user_id_id": 13,
+                    "starts_at": "2019-09-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Microsoft",
+                    "title": "Corporate Vice President",
+                    "description": "Lead the low code application platform at Microsoft across Product Management and Development. Products include PowerApps, Microsoft Flow, AI Builder, Common Data Service and the Dynamics 365 platform teams.",
+                    "location": null
+                },
+                {
+                    "id": 176,
+                    "user_id_id": 13,
+                    "starts_at": "2017-10-01T00:00:00Z",
+                    "ends_at": "2019-09-30T00:00:00Z",
+                    "company": "Microsoft",
+                    "title": "General Manager",
+                    "description": "Lead the development and product management teams for PowerApps, Microsoft Flow, Common Data Service and the Dynamics 365 application platform.",
+                    "location": "Redmond, Washington"
+                },
+                {
+                    "id": 177,
+                    "user_id_id": 13,
+                    "starts_at": "2017-09-01T00:00:00Z",
+                    "ends_at": "2017-12-31T00:00:00Z",
+                    "company": "Microsoft",
+                    "title": "Partner Engineering Director at Microsoft",
+                    "description": "Lead the Microsoft PowerApps, Microsoft Flow, Common Data Service and Dynamics XRM teams.",
+                    "location": "Redmond, WA"
+                },
+                {
+                    "id": 178,
+                    "user_id_id": 13,
+                    "starts_at": "2013-03-01T00:00:00Z",
+                    "ends_at": "2017-08-31T00:00:00Z",
+                    "company": "Microsoft",
+                    "title": "Principal Group Engineering Manager at Microsoft",
+                    "description": "Working on the Windows Azure team to define the next generation of cloud monitoring and management. This includes Azure Monitoring, Azure Autoscale, Azure Logic Apps and Azure Resource Manager.",
+                    "location": "Greater Seattle Area"
+                },
+                {
+                    "id": 179,
+                    "user_id_id": 13,
+                    "starts_at": "2009-07-01T00:00:00Z",
+                    "ends_at": "2012-09-30T00:00:00Z",
+                    "company": "Microsoft",
+                    "title": "Senior Software Development Engineer",
+                    "description": "Developer on message filtering services for Microsoft cloud offerings. Develop and expand large scale and distributed systems (C# and managed environment).",
+                    "location": "Redmond, Washington"
+                },
+                {
+                    "id": 180,
+                    "user_id_id": 13,
+                    "starts_at": "2008-05-01T00:00:00Z",
+                    "ends_at": "2008-08-31T00:00:00Z",
+                    "company": "Micorosft Corporation",
+                    "title": "SDET Intern for Windows Live OneCare",
+                    "description": "Designed and developed a web service emulator (SOAP-based) in subscription management.",
+                    "location": "Greater Seattle Area"
+                },
+                {
+                    "id": 181,
+                    "user_id_id": 13,
+                    "starts_at": "2012-10-01T00:00:00Z",
+                    "ends_at": "2013-03-31T00:00:00Z",
+                    "company": "MetricsHub, Inc. (Acquired by Microsoft)",
+                    "title": "CEO",
+                    "description": "Responsible for technical and business areas for MetricsHub. Member of founding team and developed the company from idea stage, to revenue and then to exit. \n\nMetricsHub was acquired by Microsoft on 3/4/2013. The premium MetricsHub product was offered as a no charge service following the acquisition.",
+                    "location": "Greater Seattle Area"
+                },
+                {
+                    "id": 182,
+                    "user_id_id": 13,
+                    "starts_at": "2007-10-01T00:00:00Z",
+                    "ends_at": "2009-05-31T00:00:00Z",
+                    "company": "Sun Microsystems",
+                    "title": "Campus Ambassador",
+                    "description": "Educated the University of Notre Dame campus about Sun Microsystems Products. Including lecture series on Java, Solaris and embedded devices.",
+                    "location": null
+                },
+                {
+                    "id": 183,
+                    "user_id_id": 13,
+                    "starts_at": "2007-05-01T00:00:00Z",
+                    "ends_at": "2007-08-31T00:00:00Z",
+                    "company": "Lockheed Martin Aeronautics Corporation",
+                    "title": "Tech Intern Sr.",
+                    "description": "Designed, tested, and implemented a new contract proposal system in the .Net environment.",
+                    "location": "Greater Atlanta Area"
+                },
+                {
+                    "id": 184,
+                    "user_id_id": 13,
+                    "starts_at": "2006-10-01T00:00:00Z",
+                    "ends_at": "2009-05-31T00:00:00Z",
+                    "company": "University of Notre Dame",
+                    "title": "Research Assistant",
+                    "description": "Produced the open source program Cytoprophet, a Cytoscape plug-in for the prediction of molecular interactions (released at http://cytoprophet.cse.nd.edu/). \nPublished a paper describing the intended use in the Oxford Journal of Bioinformatics.",
+                    "location": "South Bend, Indiana Area"
+                },
+                {
+                    "id": 185,
+                    "user_id_id": 13,
+                    "starts_at": "2006-06-01T00:00:00Z",
+                    "ends_at": "2006-08-31T00:00:00Z",
+                    "company": "New York Independent System Operator (NYISO)",
+                    "title": "Summer Intern",
+                    "description": "Designed, tested, and implemented a Voltage Contingency Analysis Procedure using MATLAB.",
+                    "location": "Albany, New York Area"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 42,
+                    "user_id_id": 13,
+                    "starts_at": "2005-01-01T00:00:00Z",
+                    "ends_at": "2009-12-31T00:00:00Z",
+                    "field_of_study": "Computer Science",
+                    "degree_name": "B.S.",
+                    "school": "University of Notre Dame",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [
+                {
+                    "id": 80,
+                    "user_id_id": 13,
+                    "starts_at": "2012-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Active Cloud Monitoring",
+                    "description": "I developed the Active Cloud Monitoring, a service that monitors your cloud applications and automatically scales your service up or down based on rules you set.",
+                    "url": "https://www.metricshub.com"
+                }
+            ],
+            "uservolunteerwork": [],
+            "usercertifications": [],
+            "useraccomplishmentpublications": [
+                {
+                    "id": 75,
+                    "user_id_id": 13,
+                    "name": "Determination of Specificity Residues in Two Component Systems using Graphlets",
+                    "publisher": "Biocomp",
+                    "published_on": "2009-01-01T00:00:00Z",
+                    "description": "This work presents a novel method for the identiﬁcation of speciﬁcity residues in two component systems based on the discovery of graphlet signatures. We use network representations of 3-D structures and sequence of proteins, experimental data and graph-based learning to detect graphlet signatures that potentially are responsible for phosphotranfer speciﬁcity between Histidine Kinase (HK) and Response Regulator (RR) domains.",
+                    "url": "http://physics.ucsd.edu/~amorcosg/Site/Publications_files/Morcos_BIOCOMP09.pdf"
+                },
+                {
+                    "id": 76,
+                    "user_id_id": 13,
+                    "name": "Cytoprophet: A Cytoscape plug-in for protein and domain interaction networks inference",
+                    "publisher": "Oxford Journal of Bioinformatics.",
+                    "published_on": "2008-01-01T00:00:00Z",
+                    "description": "Cytoprophet is a software tool that allows prediction and visualization of protein and domain interaction networks. It is implemented as a plug-in of Cytoscape, an open source software framework for analysis and visualization of molecular networks. Cytoprophet implements three algorithms that predict new potential physical interactions using the domain composition of proteins and experimental assays.",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/18653520"
+                }
+            ],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

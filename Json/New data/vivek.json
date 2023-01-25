@@ -1,0 +1,80 @@
+{
+    "data": {
+        "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQFlZNIj-WVfmQ/profile-displayphoto-shrink_800_800/0/1657689773449?e=2147483647&v=beta&t=HhRjTBFgF_JMQsdPcRERiVGbzQKDblnw_355mZlv6sA",
+        "first_name": "Vivek",
+        "last_name": "Solanki",
+        "occupation": "Machine Learning Engineer at F(x) Data Labs",
+        "email": "vivek@htree.plus",
+        "headline": "Machine Learning | Deep Learning | AI | Computer Vision |",
+        "summary": null,
+        "country_full_name": "India",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "languages": [],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 136,
+                    "user_id_id": 3,
+                    "starts_at": "2022-07-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "F(x) Data Labs",
+                    "title": "Machine Learning Engineer",
+                    "description": null,
+                    "location": "India"
+                },
+                {
+                    "id": 137,
+                    "user_id_id": 3,
+                    "starts_at": "2021-12-01T00:00:00Z",
+                    "ends_at": "2022-07-31T00:00:00Z",
+                    "company": "F(x) Data Labs",
+                    "title": "Machine Learning Intern",
+                    "description": null,
+                    "location": "Ahmedabad, Gujarat, India"
+                },
+                {
+                    "id": 138,
+                    "user_id_id": 3,
+                    "starts_at": "2020-12-01T00:00:00Z",
+                    "ends_at": "2021-05-31T00:00:00Z",
+                    "company": "Maxgen technologies Pvt. Ltd.",
+                    "title": "Machine Learning Intern",
+                    "description": null,
+                    "location": null
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 28,
+                    "user_id_id": 3,
+                    "starts_at": "2019-01-01T00:00:00Z",
+                    "ends_at": "2022-12-31T00:00:00Z",
+                    "field_of_study": "Information Technology",
+                    "degree_name": "Bachelor of Engineering - BE",
+                    "school": "SAL COLLEGE OF ENGINEERING (113)",
+                    "grade": "8.18",
+                    "description": null
+                },
+                {
+                    "id": 29,
+                    "user_id_id": 3,
+                    "starts_at": "2016-01-01T00:00:00Z",
+                    "ends_at": "2019-12-31T00:00:00Z",
+                    "field_of_study": "Information Technology",
+                    "degree_name": "Diploma",
+                    "school": "R.C.Technical Institute,Ahmedabad 640",
+                    "grade": "8.64",
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [],
+            "usercertifications": [],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}

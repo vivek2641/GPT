@@ -1,0 +1,357 @@
+{
+    "data": {
+        "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hemenashodia/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230119%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230119T083429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=31e751513781287dbcb5d49f78750c9b891ddd3e8bd280aa55df629fb2bb101b",
+        "first_name": "Hemen",
+        "last_name": "Ashodia",
+        "occupation": "Founder / Chief Scientist at F(x) Data Labs PVT LTD",
+        "email": "hemen@htree.plus",
+        "headline": "Senior Machine Learning Developer | Neural Network Expert",
+        "summary": "To invent.",
+        "country_full_name": "India",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "languages": [
+            "English",
+            "Gujarati",
+            "Hindi"
+        ],
+        "skills": [
+            "agile methodologies",
+            "ajax",
+            "algorithm design",
+            "artificial intelligence",
+            "artificial neural networks",
+            "business strategy",
+            "c",
+            "c++",
+            "core java",
+            "css",
+            "css3",
+            "data science",
+            "data structures",
+            "design patterns",
+            "event management",
+            "facebook api",
+            "facebook open graph protocols",
+            "gamification",
+            "html",
+            "html 5",
+            "html5",
+            "j2se",
+            "java",
+            "javascript",
+            "jquery",
+            "json",
+            "linux",
+            "machine learning",
+            "magento",
+            "marketing strategy",
+            "mysql",
+            "natural language processing",
+            "node.js",
+            "parallax",
+            "php",
+            "poetry",
+            "product design",
+            "programming",
+            "python",
+            "risk management",
+            "semantic web",
+            "seo",
+            "software development",
+            "start ups",
+            "venture development",
+            "web applications",
+            "web development",
+            "web services",
+            "zend framework"
+        ],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 121,
+                    "user_id_id": 2,
+                    "starts_at": "2018-11-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Medlex.ai",
+                    "title": "Machine Learning Developer",
+                    "description": null,
+                    "location": null
+                },
+                {
+                    "id": 122,
+                    "user_id_id": 2,
+                    "starts_at": "2015-03-01T00:00:00Z",
+                    "ends_at": "2015-07-31T00:00:00Z",
+                    "company": "Zidisha",
+                    "title": "Chief Technology Officer",
+                    "description": "Zidisha is the first online microlending community that directly connects lenders and borrowers — no matter the distance or disparity between them.\n\nMore than 200,000 people worldwide have started using Zidisha.",
+                    "location": "Ahmedabad Area, India"
+                },
+                {
+                    "id": 123,
+                    "user_id_id": 2,
+                    "starts_at": "2013-05-01T00:00:00Z",
+                    "ends_at": "2015-02-28T00:00:00Z",
+                    "company": "Remarkin.com",
+                    "title": "Founder / CEO",
+                    "description": "Remarkin.com is a start-up venture aims to make education easy, engaging and creative.",
+                    "location": "Ahmedabad"
+                },
+                {
+                    "id": 124,
+                    "user_id_id": 2,
+                    "starts_at": "2013-03-01T00:00:00Z",
+                    "ends_at": "2015-02-28T00:00:00Z",
+                    "company": "Venture Design Fellow",
+                    "title": "Venture Studio",
+                    "description": "Venture Studio program follows a design methodology based from research conducted in the field of engineering and product innovation. The program is run by Ahmedabad University in Collaboration with Center for Design Research at Stanford University",
+                    "location": "Ahmedabad Area, India"
+                },
+                {
+                    "id": 125,
+                    "user_id_id": 2,
+                    "starts_at": "2012-07-01T00:00:00Z",
+                    "ends_at": "2013-04-30T00:00:00Z",
+                    "company": "Aspire Institute",
+                    "title": "Trainer/ faculty",
+                    "description": "Coaching for Advance web development with PHP",
+                    "location": null
+                },
+                {
+                    "id": 126,
+                    "user_id_id": 2,
+                    "starts_at": "2012-07-01T00:00:00Z",
+                    "ends_at": "2012-10-31T00:00:00Z",
+                    "company": "Vox Populi Club",
+                    "title": "Tech-Event Manager",
+                    "description": "VP-club is club in L.D. College of Engineering, Ahmedabad.\nthat organizes events to keep Engineers Beating ..:)",
+                    "location": "Ahmedabad Area, India"
+                },
+                {
+                    "id": 127,
+                    "user_id_id": 2,
+                    "starts_at": "2012-01-01T00:00:00Z",
+                    "ends_at": "2012-12-31T00:00:00Z",
+                    "company": "Vox Populi Magazine",
+                    "title": "Techtonic",
+                    "description": "Working for tech department of Vox-Populi Magazine.",
+                    "location": null
+                },
+                {
+                    "id": 128,
+                    "user_id_id": 2,
+                    "starts_at": "2012-01-01T00:00:00Z",
+                    "ends_at": "2012-11-30T00:00:00Z",
+                    "company": "Vox Populi Club",
+                    "title": "Manager OF Technical Events",
+                    "description": "I work as a Technical Event manger at Vox Populi Club\nIn LD College of Engineering Ahmedabad",
+                    "location": "Ahmedabad"
+                },
+                {
+                    "id": 129,
+                    "user_id_id": 2,
+                    "starts_at": "2011-08-01T00:00:00Z",
+                    "ends_at": "2012-04-30T00:00:00Z",
+                    "company": "Topupchat.com",
+                    "title": "CEO/founder",
+                    "description": "As a CEO I invent all new feature of this website topupchat.com,\nthe entire idea, code and design of this website is designed and invented by me",
+                    "location": null
+                },
+                {
+                    "id": 130,
+                    "user_id_id": 2,
+                    "starts_at": "2018-03-01T00:00:00Z",
+                    "ends_at": "2019-12-31T00:00:00Z",
+                    "company": "ArtuData",
+                    "title": "Chief Data Scientist",
+                    "description": "80% of your profit is generated by just 2% of your visitors\nArtuData empowers your marketing and sales teams to identify leads in real-time, giving each team full focus to convert them into paying customers. Now you can boost your efficiency and ROI while reducing your cost per acquisition.",
+                    "location": "Ahmedabad Area, India"
+                },
+                {
+                    "id": 131,
+                    "user_id_id": 2,
+                    "starts_at": "2018-01-01T00:00:00Z",
+                    "ends_at": "2018-12-31T00:00:00Z",
+                    "company": "Johnson & Johnson",
+                    "title": "Lead Data Scientist and Machine Learning Expert",
+                    "description": "Worked as a Lead Data Scientist and Machine Learning Expert at Johnson & Johnson - Data Science.\nCreated data pipelines, which used millions of data points, for the identification of the best strategies to increase the effectiveness of professional educational events.",
+                    "location": null
+                },
+                {
+                    "id": 132,
+                    "user_id_id": 2,
+                    "starts_at": "2018-01-01T00:00:00Z",
+                    "ends_at": "2018-12-31T00:00:00Z",
+                    "company": "Loom Network",
+                    "title": "Lead Go Developer",
+                    "description": "Built a Karma system for a decentralized crypto platform and implemented a Sparse Merkle Tree.",
+                    "location": null
+                },
+                {
+                    "id": 133,
+                    "user_id_id": 2,
+                    "starts_at": "2018-01-01T00:00:00Z",
+                    "ends_at": "2018-12-31T00:00:00Z",
+                    "company": "Paravision",
+                    "title": "TensorFlow Expert",
+                    "description": "Invented the fastest algorithm to identify the correct face using machine learning with a 99.81% accuracy.",
+                    "location": null
+                },
+                {
+                    "id": 134,
+                    "user_id_id": 2,
+                    "starts_at": "2015-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "F(x) Data Labs PVT LTD",
+                    "title": "Founder / Chief Scientist",
+                    "description": "At F(x) Data Labs, we are working on our algorithm called h+tree which increases the speed limit of the databases that serves more number of users at a time.\n\n h+ tree is capable to deliver 300% speed compared to the existing B+Tree. Hence your servers will become exceptionally fast and your server cost also goes down eventually.\n\nThe end goal for setting up our cloud infrastructure is that we want to inject our h+Tree algorithm into our cloud servers and we look forward to delivering the fastest cloud servers to the entire software industry!",
+                    "location": "Ahmedabad Area, India"
+                },
+                {
+                    "id": 135,
+                    "user_id_id": 2,
+                    "starts_at": "2012-05-01T00:00:00Z",
+                    "ends_at": "2012-07-31T00:00:00Z",
+                    "company": "Amitech",
+                    "title": "Web Developer",
+                    "description": "Worked as Facebook Application Developer and Firefox Extension Developer at Amitech.\nAmitech is a software solution company from Ahmedabad.",
+                    "location": "Ahmedabad Area, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 25,
+                    "user_id_id": 2,
+                    "starts_at": "2013-01-01T00:00:00Z",
+                    "ends_at": "2015-12-31T00:00:00Z",
+                    "field_of_study": "Entrepreneurship and Design Thinking",
+                    "degree_name": "Fellowship",
+                    "school": "VentureStudio Partnered with Stanford University, California",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 26,
+                    "user_id_id": 2,
+                    "starts_at": "2010-01-01T00:00:00Z",
+                    "ends_at": "2014-12-31T00:00:00Z",
+                    "field_of_study": "IT",
+                    "degree_name": "BE",
+                    "school": "L.D College of Engineering - Ahmedabad",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 27,
+                    "user_id_id": 2,
+                    "starts_at": "2003-01-01T00:00:00Z",
+                    "ends_at": "2010-12-31T00:00:00Z",
+                    "field_of_study": "Science",
+                    "degree_name": "12th",
+                    "school": "V. D. High School, Bhuj-Kutch",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [
+                {
+                    "id": 61,
+                    "user_id_id": 2,
+                    "starts_at": "2011-09-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Topupchat.com(Free Recharge)",
+                    "description": "Chat with your fiends and get free Mobile Recharge",
+                    "url": "http://www.topupchat.com"
+                },
+                {
+                    "id": 62,
+                    "user_id_id": 2,
+                    "starts_at": "2013-05-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Net Meeting",
+                    "description": "A portal for easy virtual meeting.",
+                    "url": null
+                },
+                {
+                    "id": 63,
+                    "user_id_id": 2,
+                    "starts_at": "2013-01-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "ICATES2013",
+                    "description": "A responsive website for an International Conference on Advances in Tribology and Engineering Systems",
+                    "url": "http://www.icates2013.com"
+                },
+                {
+                    "id": 64,
+                    "user_id_id": 2,
+                    "starts_at": "2012-12-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "MN Framework",
+                    "description": "An extremely robust and easy to use framework of highly distributed development of Advance PHP web projects.\nHelpful for beginners - intermediates and experts",
+                    "url": null
+                },
+                {
+                    "id": 65,
+                    "user_id_id": 2,
+                    "starts_at": "2012-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "LGD Library",
+                    "description": "Layered image processing library for PHP",
+                    "url": null
+                },
+                {
+                    "id": 66,
+                    "user_id_id": 2,
+                    "starts_at": "2012-08-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Me Famous",
+                    "description": "an app to update fb status in a stylish way",
+                    "url": "https://apps.facebook.com/mefamous"
+                },
+                {
+                    "id": 67,
+                    "user_id_id": 2,
+                    "starts_at": "2012-06-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "PicInChat.com",
+                    "description": "upload & Send pic to facebook friends in chat as big smiles",
+                    "url": "http://www.picinchat.com"
+                },
+                {
+                    "id": 68,
+                    "user_id_id": 2,
+                    "starts_at": "2012-02-01T00:00:00Z",
+                    "ends_at": null,
+                    "title": "Just Debate",
+                    "description": "Just Debate - war of the words\nAn Event of Technical debate",
+                    "url": null
+                }
+            ],
+            "uservolunteerwork": [],
+            "usercertifications": [],
+            "useraccomplishmentpublications": [
+                {
+                    "id": 73,
+                    "user_id_id": 2,
+                    "name": "Fx Optimiser upto 80% faster Artificial Neural Network Training",
+                    "publisher": "OpenReview",
+                    "published_on": "2018-02-01T00:00:00Z",
+                    "description": "Fx Optimiser is successor to Adam Optimiser.\nIt is observed to throuput upto 80% faster Artificial Neural Network Training",
+                    "url": "https://pdfs.semanticscholar.org/2ce7/b7d2599652a5b57f919a17977a5323a5c78b.pdf?hyper-query=fx%20optimier%20hemen"
+                }
+            ],
+            "useraccomplishmenthonorsawards": [
+                {
+                    "id": 61,
+                    "user_id_id": 2,
+                    "title": "Leadership and Excellence Award",
+                    "issuer": "Gujarat Technological University, Ahmedabad, Gujarat, India",
+                    "issued_on": "2014-02-01T00:00:00Z",
+                    "description": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "data": {
+        "profile_pic_url": "https://media.licdn.com/dms/image/D5603AQEPxIAUF_oZAg/profile-displayphoto-shrink_400_400/0/1665943414669?e=1680134400&v=beta&t=7qYl7nuAr06sB4xqz0OE1nZNi6gJ9JbyQg2eEiyQyHs",
+        "first_name": "Pijush",
+        "last_name": "Paul",
+        "occupation": "Security Solutions Architect at Accenture in India",
+        "email": "random3@gmail.com",
+        "headline": "Security Delivery Specialist at Accenture in India",
+        "summary": "Experienced Security Solutions Architect/ Pre Sales Consultant with demonstrated history of working in various projects on the information and cyber security. Skilled in Cyber Defense, Cloud Security, IT Service Management, Project Management Office (PMO), Troubleshooting, and Project Management. Strong pre sales development professional with a BCA focused in Computer Science from PCMT, schooled in Kendriya Vidyalaya.",
+        "country_full_name": "India",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "languages": [],
+        "skills": [],
+        "user_carrier_data": {
+            "user_experiences": [
+                {
+                    "id": 186,
+                    "user_id_id": 14,
+                    "starts_at": "2018-10-01T00:00:00Z",
+                    "ends_at": null,
+                    "company": "Accenture in India",
+                    "title": "Security Solutions Architect",
+                    "description": "Cyber and Information Security Architecture and Pre sales consulting.",
+                    "location": "Kolkata, West Bengal, India"
+                },
+                {
+                    "id": 187,
+                    "user_id_id": 14,
+                    "starts_at": "2014-06-01T00:00:00Z",
+                    "ends_at": "2018-10-01T00:00:00Z",
+                    "company": "Accenture",
+                    "title": "Project Analyst",
+                    "description": "Techinical troubleshooting \nincident management\nproblem management \nevent management \ncommunication \npresentation \nsolving issues\nnetwork set up\nemail config \nrouter config",
+                    "location": null
+                },
+                {
+                    "id": 188,
+                    "user_id_id": 14,
+                    "starts_at": "2012-10-01T00:00:00Z",
+                    "ends_at": "2014-05-01T00:00:00Z",
+                    "company": "Dell",
+                    "title": "Customer Technical Support Engineer",
+                    "description": "1) Catering to US clients in order to resolve Network and host related issues.\n2) Expertise in troubleshooting network routers\n3) Pitching the value added services\n4) Providing telephonic support to resolve IT incidents",
+                    "location": "Gurugram, Haryana, India"
+                },
+                {
+                    "id": 189,
+                    "user_id_id": 14,
+                    "starts_at": "2011-03-01T00:00:00Z",
+                    "ends_at": "2012-09-01T00:00:00Z",
+                    "company": "IBM",
+                    "title": "Customer Service Specialist",
+                    "description": "1. Providing home computer and Internet related troubleshooting\n2. Providing SME support to the team\n3. Pitching high end value added products and services to prospective clients\n4. Training new joiners on Internet and OS",
+                    "location": "Kolkata, West Bengal, India"
+                },
+                {
+                    "id": 190,
+                    "user_id_id": 14,
+                    "starts_at": "2010-02-01T00:00:00Z",
+                    "ends_at": "2011-04-01T00:00:00Z",
+                    "company": "Wipro Limited",
+                    "title": "Technical Support Associate",
+                    "description": "1. Providing router troubleshooting\n2. Troubleshooting PSTN networks\n3. Providing customer care assistance to consumers",
+                    "location": "Kolkata, West Bengal, India"
+                }
+            ],
+            "usereducation": [
+                {
+                    "id": 43,
+                    "user_id_id": 14,
+                    "starts_at": "2003-01-01T00:00:00Z",
+                    "ends_at": "2006-01-01T00:00:00Z",
+                    "field_of_study": "Computer and Information Sciences and Support Services",
+                    "degree_name": "Bachelors of Computer Applications",
+                    "school": "West Bengal University of Technology, Kolkata",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 44,
+                    "user_id_id": 14,
+                    "starts_at": "2001-01-01T00:00:00Z",
+                    "ends_at": "2002-01-01T00:00:00Z",
+                    "field_of_study": "Pure Science",
+                    "degree_name": "High School",
+                    "school": "Kendriya Vidyalaya",
+                    "grade": null,
+                    "description": null
+                },
+                {
+                    "id": 45,
+                    "user_id_id": 14,
+                    "starts_at": null,
+                    "ends_at": null,
+                    "field_of_study": null,
+                    "degree_name": null,
+                    "school": "Kendriya Vidyalaya",
+                    "grade": null,
+                    "description": null
+                }
+            ],
+            "useraccomplishmentorganisations": [],
+            "useraccomplishmentprojects": [],
+            "uservolunteerwork": [],
+            "usercertifications": [
+                {
+                    "id": 96,
+                    "user_id_id": 14,
+                    "starts_at": "2022-12-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+                    "license_number": null,
+                    "display_source": "credly.com",
+                    "authority": "Microsoft",
+                    "url": "https://www.credly.com/badges/7a41c914-638d-40e3-b9b1-f89ecec1931f/linked_in_profile"
+                },
+                {
+                    "id": 97,
+                    "user_id_id": 14,
+                    "starts_at": "2022-04-01T00:00:00Z",
+                    "ends_at": null,
+                    "name": "EC-Council Certified Security Analyst (ECSA)",
+                    "license_number": "ECC1853076942",
+                    "display_source": "eccouncil.org",
+                    "authority": "EC-Council",
+                    "url": "https://aspen.eccouncil.org/Certificate/Certificate?a=jdhPGqBWQrn2U8qSxU4N/w=="
+                },
+                {
+                    "id": 98,
+                    "user_id_id": 14,
+                    "starts_at": "2020-03-01T00:00:00Z",
+                    "ends_at": "2032-02-01T00:00:00Z",
+                    "name": "Azure Fundamentals",
+                    "license_number": "17587381",
+                    "display_source": "youracclaim.com",
+                    "authority": "Microsoft",
+                    "url": "https://www.youracclaim.com/earner/earned/share/f1c16640-2b07-4156-b10f-d1f8fcbab9df"
+                },
+                {
+                    "id": 99,
+                    "user_id_id": 14,
+                    "starts_at": "2019-06-01T00:00:00Z",
+                    "ends_at": "2032-01-01T00:00:00Z",
+                    "name": "CompTIA Security+",
+                    "license_number": "COMP001021490211",
+                    "display_source": null,
+                    "authority": "CompTIA",
+                    "url": null
+                },
+                {
+                    "id": 100,
+                    "user_id_id": 14,
+                    "starts_at": "2023-01-01T00:00:00Z",
+                    "ends_at": "2026-01-01T00:00:00Z",
+                    "name": "Certified Ethical Hacker (CEH)",
+                    "license_number": "ECC5182436097",
+                    "display_source": null,
+                    "authority": "EC-Council",
+                    "url": null
+                }
+            ],
+            "useraccomplishmentpublications": [],
+            "useraccomplishmenthonorsawards": []
+        }
+    }
+}
