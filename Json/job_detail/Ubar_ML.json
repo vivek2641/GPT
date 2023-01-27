@@ -1,0 +1,29 @@
+{
+    "linkedin_internal_id": "3101943074",
+    "job_description": "**About The Role**\n  \n\n**About Customer Obsession ML team:**\n  \n\nCustomer Obsession ML team's mission is to leverage the vast and varied data to develop intelligence that can make our customers' support experience more efficient, personalized and effective. We work on a range of projects such as accurately identifying a customer's need based on the contact text and trip signals, optimizing routing of contacts to support representatives for fastest resolution, intelligently escalating contacts that are related to safety or other time critical issues, and completely automating the support experience whenever possible. In addition to classic ML prediction models, we also work on latest deep learning language models, time series modeling, and causal inference. We own the entire ML lifecycle from data exploration and model development to deployment and monitoring the model in production. \n  \n\n**About The Role**\n  \n\nAs a member of the CO ML team, you will work closely with product managers and backend engineers to develop core ML models and systems to understand user problems and context, automate help, optimize flows, etc. You will own the algorithm development as well as the deployment of the model in production. \n  \n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere. \n  \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together. \n  \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form. \n  \n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n  \n\nUber is committed to a safe workplace. We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines. Workplace safety remains our number one priority. As a result, Uber recommends all US- and Canada-based employees to be vaccinated in order to access any of our facilities; this is subject to change solely at the Company's discretion. \n  \n\n",
+    "apply_url": null,
+    "title": "Staff/Sr Software Engineer - Machine Learning",
+    "location": {
+        "country": "India",
+        "region": null,
+        "city": null,
+        "postal_code": null,
+        "latitude": null,
+        "longitude": null,
+        "street": null
+    },
+    "company": {
+        "name": "Uber",
+        "url": "https://www.linkedin.com/company/uber-com",
+        "logo": "https://media.licdn.com/dms/image/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/0/1538169321193?e=2147483647&v=beta&t=G0otAa63gPnDJHfpQF879CigxS_V1TimRKjxNp8DfgM"
+    },
+    "seniority_level": "Not Applicable",
+    "industry": [
+        "IT Services and IT Consulting, Software Development, and Consumer Services"
+    ],
+    "employment_type": "Full-time",
+    "job_functions": [
+        "Engineering and Information Technology"
+    ],
+    "total_applicants": 200
+}
