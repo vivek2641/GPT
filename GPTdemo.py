@@ -291,7 +291,9 @@ print(job_details)
 # ------final corpus starts-------
 prompt = job_details + "\n "+profile_details + \
     "\nWrite a job cover letter for provided profile details if job application is done for the above mention job details"
+
 gpt_prompt = prompt
+
 gpt_prompt2 = job_details + "\n "+profile_details + \
     "\nWrite a Professional job cover letter for provided profile details and job details"
 gpt_prompt3 = job_details + "\n "+profile_details + \
