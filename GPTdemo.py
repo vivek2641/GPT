@@ -4,25 +4,21 @@ import json
 import textwrap
 app = FastAPI()
 
-openai.api_key = "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"
+# openai.api_key = "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"
+openai.api_key = "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"
+
 
 # load JSON file
-# job_filepath = "Json/job_detail/Turing_ML.json"
+job_filepath = "Json/job_detail/Turing_ML.json"
 # job_filepath = "Json/job_detail/Ubar_ML.json"
-job_filepath = "Json/job_detail/Uplers_automation_ML.json"
+# job_filepath = "Json/job_detail/Uplers_automation_ML.json"
 
-# job_filepath = "Json/job_detail/Hewlett Packard Enterprise_backend.json"
-# job_filepath = "Json/job_detail/Uplers_Full_Stack.json"
-# job_filepath = "Json/job_detail/manager-job.json"
-# job_filepath = "Json/job_detail/pm-job.json"
-
-# job_filepath = "Json/job_detail/UI-UX.json"
 
 with open(job_filepath, 'r') as json_file:
     job_data = json.load(json_file)
 
 
-linkedindata = "minu-qa.json"
+linkedindata = "hemen.json"
 filepath = "Json/New data/"+linkedindata
 with open(filepath, 'r') as json_file:
     data = json.load(json_file)
@@ -257,13 +253,13 @@ employment_type = job_data["employment_type"]
 job_functions = job_data["job_functions"][0]
 
 profile_details = "Profile details:\n" \
-    "     Name: \n          "+str(First_name) + " "+str(last_name) + "\n"\
-    "     Occupation: \n          "+str(Occupation) + "\n"\
-    "     Email: \n          "+str(Email) + "\n"\
-    "     Summary: \n          "+str(Summary) + "\n"\
-    "     Country: \n          "+str(Country_full_name) + "\n"\
-    "     City: \n          "+str(City) + "\n"\
-    "     State: \n          "+str(state) + "\n"\
+    "     Name: "+str(First_name) + " "+str(last_name) + "\n"\
+    "     Occupation: "+str(Occupation) + "\n"\
+    "     Email: "+str(Email) + "\n"\
+    "     Summary: "+str(Summary) + "\n"\
+    "     Country: "+str(Country_full_name) + "\n"\
+    "     City: "+str(City) + "\n"\
+    "     State: "+str(state) + "\n"\
     "     Languages: "+str(Languages) + "\n"\
     "     Skills: \n     "+str(skills) + "\n"\
     "     Experiences: \n     "+str(User_experiences) + "\n"\
@@ -284,36 +280,45 @@ job_details = "Job details:\n "\
     "     Job description:      "+str(job_description) + "\n"\
     "     Employment type: \n          "+str(employment_type) + "\n"\
     "     Job functions: \n          "+str(job_functions) + "\n"
-print(job_details)
 
+# cover_letter_format = "Cover letter format:\nplace contact informataion in the header\
+#     Show achievements relevant to the role you're targeting.\
+#     Target the employer's needs and prove you can help\
+#     explain why you want to join and stay"
+
+# cover_letter_format = "Cover letter format:\n\
+#     Full name\
+#     E-mail\
+#     Job title\
+#     Company name\
+#     include 3-4 paragraphs and add in last Sincerely"
+cover_letter_format = "\nCover Letter Format\n    Full name\n    Job title\n    E-mail\
+    \n    Recruiter’s Job Title\
+    \n    Company Name\
+    \n    Opening para: Start cover letter in a way that attracts and holds the reader’s interest.Highlight achievements, display passion and enthusiasm, or drop names  \
+    \n    Second Para: Explain them why you are the perfect fit Impress an employer by mentioning my skills/experience/achievements related to new position \
+    \n    Closing Para: Show motivation to join the company Show them that you will satisfy their needs and stay with them for longer Close with a promise and \
+    \n    Postscript(P.S): Magnet trick you can use to tell something impressive about career, even if it's not related to current job role And say that you'd be happy to provide more info on this if they find it interesting"
 
 # --------------------------start-------------------------------------
 # ------final corpus starts-------
-prompt = job_details + "\n "+profile_details + \
-    "\nWrite a job cover letter for provided profile details if job application is done for the above mention job details"
+# gpt_prompt = job_details + "\n "+profile_details + "\n\nThis is a format of cover letter" + cover_letter_format + "\n " +\
+#     "\nWrite a job cover letter for provided profile details if job application is done for the above mention job details using given cover letter format "
+# gpt_prompt = cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n" +\
+#     "Write a job cover letter using mention cover letter format for provided profile details and job details "
+# Compose a cover letter for a job by referencing the given profile information and job details, utilizing the specified cover letter format.
+gpt_prompt = "Write a job cover letter using mention cover letter format for provided profile details and job details " + \
+    cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n"
 
-gpt_prompt = prompt
+print(gpt_prompt)
 
-gpt_prompt2 = job_details + "\n "+profile_details + \
-    "\nWrite a Professional job cover letter for provided profile details and job details"
-gpt_prompt3 = job_details + "\n "+profile_details + \
-    "\nDraft a cover letter that aligns with the job details listed above and emphasizes your relevant skills and experience."
-gpt_prompt4 = job_details + "\n "+profile_details + \
-    "\nWrite a cover letter that illustrates how I abilities align with the job details provided above and why you are a strong candidate for the position for my profile details."
-gpt_prompt5 = job_details + "\n "+profile_details + \
-    "\nCompose a cover letter that highlights My qualifications for the position based on the provided job profile for my profile details."
-gpt_prompt6 = job_details + "\n "+profile_details + \
-    "\nCreate a well-written cover letter that showcases your skills and experience in relation to the given job and profile information."
-gpt_prompt7 = job_details + "\n "+profile_details + \
-    "\nPrepare a cover letter that demonstrates your suitability for the position, using the provided job and profile information as a guide."
 
 # ------final corpus ends-----
 
 
-@app.get("/")
+@app.get("/coverletter")
 def index():
 
-    # print(gpt_prompt)
     response = openai.Completion.create(
         engine="text-davinci-003",
         prompt=gpt_prompt,
@@ -321,133 +326,172 @@ def index():
         max_tokens=500,
         top_p=1.0,
         frequency_penalty=0.3,
-        presence_penalty=0.9
+        presence_penalty=0.9,
+        stop=["Job details:", "Profile details:"]
     )
     # print("----------------cover letter----------------------")
-    # print(response)
     result = response['choices'][0]['text']
-    # print(result)
-    # print(response['id'])
-    # print(job_details)
-    with open("Json/output/prompt-1.log", "a") as log_file:
+    with open("Json/output/demo.log", "a") as log_file:
         log_file.write("\n\n" + result
                        + "\n------------------------------------------------------------------------------\n")
-
-    response2 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt2,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response2)
-    result2 = response2['choices'][0]['text']
-    # print(result2)
-    # print(response2['id'])
-    # print(job_details)
-    with open("Json/output/prompt-2.log", "a") as log_file:
-        log_file.write("\n\n" + result2
-                       + "\n------------------------------------------------------------------------------\n")
-
-    response3 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt3,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response3)
-    result3 = response3['choices'][0]['text']
-    # print(result3)
-    # print(response3['id'])
-    # print(job_details)
-    with open("Json/output/prompt-3.log", "a") as log_file:
-        log_file.write("\n\n" + result3
-                       + "\n------------------------------------------------------------------------------\n")
-
-    response4 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt4,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response4)
-    result4 = response4['choices'][0]['text']
-    # print(result4)
-    # print(response4['id'])
-    # print(job_details)
-    with open("Json/output/prompt-4.log", "a") as log_file:
-        log_file.write("\n\n" + result4
-                       + "\n------------------------------------------------------------------------------\n")
-
-    response5 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt5,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response5)
-    result5 = response5['choices'][0]['text']
-    # print(result5)
-    # print(response5['id'])
-    # print(job_details)
-    with open("Json/output/prompt-5.log", "a") as log_file:
-        log_file.write("\n\n" + result5
-                       + "\n------------------------------------------------------------------------------\n")
-
-    response6 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt6,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response6)
-    result6 = response6['choices'][0]['text']
-    # print(result6)
-    # print(response6['id'])
-    # print(job_details)
-    with open("Json/output/prompt-6.log", "a") as log_file:
-        log_file.write("\n\n" + result6
-                       + "\n------------------------------------------------------------------------------\n")
-
-    response7 = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=gpt_prompt7,
-        temperature=0.99,
-        max_tokens=500,
-        top_p=1.0,
-        frequency_penalty=0.3,
-        presence_penalty=0.9
-    )
-    # print("----------------cover letter----------------------")
-    # print(response7)
-    result7 = response7['choices'][0]['text']
-    # print(result7)
-    # print(response7['id'])
-    # print(job_details)
-    with open("Json/output/prompt-7.log", "a") as log_file:
-        log_file.write("\n\n" + result7
-                       + "\n------------------------------------------------------------------------------\n")
-
     return result
+
+# for multiple request
+
+# gpt_prompt1 = job_details + "\n "+profile_details + \
+#     "\nWrite a job cover letter for provided profile details if job application is done for the above mention job details"
+# gpt_prompt2 = job_details + "\n "+profile_details + \
+#     "\nWrite a Professional job cover letter for provided profile details and job details"
+# gpt_prompt3 = job_details + "\n "+profile_details + \
+#     "\nDraft a cover letter that aligns with the job details listed above and emphasizes your relevant skills and experience."
+# gpt_prompt4 = job_details + "\n "+profile_details + \
+#     "\nWrite a cover letter that illustrates how I abilities align with the job details provided above and why you are a strong candidate for the position for my profile details."
+# gpt_prompt5 = job_details + "\n "+profile_details + \
+#     "\nCompose a cover letter that highlights My qualifications for the position based on the provided job profile for my profile details."
+# gpt_prompt6 = job_details + "\n "+profile_details + \
+#     "\nCreate a well-written cover letter that showcases your skills and experience in relation to the given job and profile information."
+# gpt_prompt7 = job_details + "\n "+profile_details + \
+#     "\nPrepare a cover letter that demonstrates your suitability for the position, using the provided job and profile information as a guide."
+
+
+# @app.get("/corpus")
+# def index():
+
+#     # print(gpt_prompt)
+#     response = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt1,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response)
+#     result = response['choices'][0]['text']
+#     # print(result)
+#     # print(response['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-1.log", "a") as log_file:
+#         log_file.write("\n\n" + result
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response2 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt2,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response2)
+#     result2 = response2['choices'][0]['text']
+#     # print(result2)
+#     # print(response2['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-2.log", "a") as log_file:
+#         log_file.write("\n\n" + result2
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response3 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt3,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response3)
+#     result3 = response3['choices'][0]['text']
+#     # print(result3)
+#     # print(response3['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-3.log", "a") as log_file:
+#         log_file.write("\n\n" + result3
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response4 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt4,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response4)
+#     result4 = response4['choices'][0]['text']
+#     # print(result4)
+#     # print(response4['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-4.log", "a") as log_file:
+#         log_file.write("\n\n" + result4
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response5 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt5,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response5)
+#     result5 = response5['choices'][0]['text']
+#     # print(result5)
+#     # print(response5['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-5.log", "a") as log_file:
+#         log_file.write("\n\n" + result5
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response6 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt6,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response6)
+#     result6 = response6['choices'][0]['text']
+#     # print(result6)
+#     # print(response6['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-6.log", "a") as log_file:
+#         log_file.write("\n\n" + result6
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     response7 = openai.Completion.create(
+#         engine="text-davinci-003",
+#         prompt=gpt_prompt7,
+#         temperature=0.99,
+#         max_tokens=500,
+#         top_p=1.0,
+#         frequency_penalty=0.3,
+#         presence_penalty=0.9
+#     )
+#     # print("----------------cover letter----------------------")
+#     # print(response7)
+#     result7 = response7['choices'][0]['text']
+#     # print(result7)
+#     # print(response7['id'])
+#     # print(job_details)
+#     with open("Json/output/prompt-7.log", "a") as log_file:
+#         log_file.write("\n\n" + result7
+#                        + "\n------------------------------------------------------------------------------\n")
+
+#     return result
 
 
 # ----------------------------end----------------------------------
