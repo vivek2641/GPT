@@ -2,11 +2,11 @@ from fastapi import FastAPI
 import openai
 import json
 import textwrap
+import os
+from dotenv import load_dotenv
 app = FastAPI()
-
-# openai.api_key = "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"
-openai.api_key = "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"
-
+load_dotenv()
+openai.api_key = os.getenv('API_KEY')
 
 # load JSON file
 job_filepath = "Json/job_detail/Turing_ML.json"
@@ -286,19 +286,21 @@ job_details = "Job details:\n "\
 #     Target the employer's needs and prove you can help\
 #     explain why you want to join and stay"
 
-# cover_letter_format = "Cover letter format:\n\
-#     Full name\
-#     E-mail\
-#     Job title\
-#     Company name\
-#     include 3-4 paragraphs and add in last Sincerely"
-cover_letter_format = "\nCover Letter Format\n    Full name\n    Job title\n    E-mail\
-    \n    Recruiter’s Job Title\
-    \n    Company Name\
-    \n    Opening para: Start cover letter in a way that attracts and holds the reader’s interest.Highlight achievements, display passion and enthusiasm, or drop names  \
-    \n    Second Para: Explain them why you are the perfect fit Impress an employer by mentioning my skills/experience/achievements related to new position \
-    \n    Closing Para: Show motivation to join the company Show them that you will satisfy their needs and stay with them for longer Close with a promise and \
-    \n    Postscript(P.S): Magnet trick you can use to tell something impressive about career, even if it's not related to current job role And say that you'd be happy to provide more info on this if they find it interesting"
+# cover_letter_format = "\nCover Letter Format\n    Full name:\n    E-mail:\n    Job title:\
+#     \n    Company Name:\
+#     \n    Opening paragraph: Start cover letter in a way that attracts and holds the reader’s interest.Highlight achievements, display passion and enthusiasm, or drop names  \
+#     \n    Second paragraph including key projects list: Explain them why you are the perfect fit Impress an employer by mentioning my skills/experience/achievements related to new position. \
+#     Make sure to use a numbered list to highlight the experience, skills, projects and achievements. \
+#     \n    Closing paragraph: Show motivation to join the company Show them that you will satisfy their needs and stay with them for longer Close with a promise and \
+#     \n    Postscript(P.S): Magnet trick you can use to tell something impressive about career, even if it's not related to current job role And say that you'd be happy to provide more info on this if they find it interesting\
+#     \n    Write ending paragpah for cover letter."
+cover_letter_format = "\nCover Letter Format\n    Full name:\n    E-mail:\n    Job title:\n\    Company Name:\
+    \n    1. Opening paragraph: Start cover letter in a way that attracts and holds the reader’s interest.Highlight achievements, display passion and enthusiasm, or drop names  \
+    \n    2. Second paragraph including key projects list: Explain them why you are the perfect fit Impress an employer by mentioning my skills/experience/achievements related to new position. \
+    \n    3. Make sure to use a numbered list to highlight the experience, skills, projects and achievements. \
+    \n    4. Closing paragraph: Show motivation to join the company Show them that you will satisfy their needs and stay with them for longer Close with a promise and \
+    \n    5. Postscript: Magnet trick you can use to tell something impressive about career, even if it's not related to current job role And say that you'd be happy to provide more info on this if they find it interesting\
+    \n    6. Write ending paragpah for cover letter."
 
 # --------------------------start-------------------------------------
 # ------final corpus starts-------
@@ -307,12 +309,17 @@ cover_letter_format = "\nCover Letter Format\n    Full name\n    Job title\n    
 # gpt_prompt = cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n" +\
 #     "Write a job cover letter using mention cover letter format for provided profile details and job details "
 # Compose a cover letter for a job by referencing the given profile information and job details, utilizing the specified cover letter format.
-gpt_prompt = "Write a job cover letter using mention cover letter format for provided profile details and job details " + \
-    cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n"
+# gpt_prompt = "Write a job cover letter using mention cover letter format for provided profile details and job details" + \
+#     "\n{"+cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n}"
+# gpt_prompt = "Write a job cover letter using provided cover letter format for provided profile details and job details." + \
+#     "\n{"+cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n}"
+# gpt_prompt = "Write a compelling cover letter for a job application by utilizing the profile and job details and the given cover letter format." + \
+#     "\n{"+cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n}"
 
+gpt_prompt = "Write a compelling cover letter for a job application by utilizing the profile and job details and the given cover letter format.(minimum 500 words)(must include header nad sign off)(Include project, achievements and experience in list format)\n\
+" + \
+    "\n{"+cover_letter_format + "\n " + job_details + "\n "+profile_details + "\n}"
 print(gpt_prompt)
-
-
 # ------final corpus ends-----
 
 
@@ -322,12 +329,13 @@ def index():
     response = openai.Completion.create(
         engine="text-davinci-003",
         prompt=gpt_prompt,
-        temperature=0.99,
-        max_tokens=500,
+        temperature=0.6,
+        max_tokens=600,
         top_p=1.0,
         frequency_penalty=0.3,
         presence_penalty=0.9,
-        stop=["Job details:", "Profile details:"]
+        best_of=1,
+        stop=["Job details:", "Profile details:","cover letter format:"]
     )
     # print("----------------cover letter----------------------")
     result = response['choices'][0]['text']
